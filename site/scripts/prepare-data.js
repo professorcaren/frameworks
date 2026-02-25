@@ -90,6 +90,13 @@ function cleanText(text) {
   cleaned = cleaned.replace(/^\\\*\\\*\\\*\s*$/gm, "");
   cleaned = cleaned.replace(/^\*\*\*\s*$/gm, "");
 
+  // Remove inline [] markers (empty bracket artifacts)
+  cleaned = cleaned.replace(/\[\]/g, "");
+
+  // Strip markdown emphasis markers (* and **)
+  cleaned = cleaned.replace(/\*\*([^*]+)\*\*/g, "$1");
+  cleaned = cleaned.replace(/\*([^*]+)\*/g, "$1");
+
   // Clean up multiple blank lines
   cleaned = cleaned.replace(/\n{3,}/g, "\n\n");
 
