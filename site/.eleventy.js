@@ -56,6 +56,7 @@ module.exports = function (eleventyConfig) {
       data: "../_data",
       output: "_site",
     },
+    pathPrefix: "/frameworks/",
     templateFormats: ["njk", "md"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
