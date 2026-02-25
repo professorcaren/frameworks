@@ -1,4 +1,46 @@
 {
   "introduction": "Elizabeth Cady Stanton delivered this address at the 1868 Woman Suffrage Convention as the women's rights movement pressed demands for political enfranchisement during Reconstruction. Speaking to assembled suffragists and addressing a broader American public, Stanton made the case for women's voting rights at a moment when African American men were gaining suffrage through the Fifteenth Amendment while women remained excluded. The movement needed to make explicit, comprehensive arguments for women's full citizenship at a pivotal constitutional moment. Stanton, a primary architect of American feminism and organizer of the 1848 Seneca Falls Convention, commanded authority as a decades-long advocate. She faced a skeptical society where women's disenfranchisement seemed natural and inevitable. The speech aimed to reframe women's exclusion from politics as unnatural, unjust, and contrary to American democratic principles.",
-  "analysis": "Stanton's suffrage address applies the Crossroads framework to gender-based social reform. The Current Reality describes women's political, legal, and economic subjugation, their exclusion from voting, property ownership, and autonomous legal status, establishing women's condition as fundamentally unjust and contrary to American democratic values. She grounds the human impact in concrete examples of women's vulnerability and powerlessness. The Opposition's False Promise directly challenges arguments that women lack fitness for politics, that their 'natural' sphere is domestic, and that their interests are adequately represented through male relatives. Stanton exposes these as pretexts for power maintenance, not genuine logical positions. Her Vision of Hope presents women exercising political judgment, contributing to democratic deliberation, advancing justice through legislative participation, and achieving economic independence. The Bridge to Action frames suffrage as the mechanism enabling women's advancement while positioning the audience, both supporters and skeptics, as moral agents who must choose between justice and continued oppression. Stanton connects women's suffrage to broader democratic principles and human dignity, universalizing the framework beyond gender-specific concerns. Notice how social movements deploy Crossroads rhetoric to redefine 'natural' boundaries as oppressive choices, and how moral universalism can undermine entrenched hierarchies by forcing majoritarians to acknowledge contradictions in their own stated principles."
+  "analysis": "Stanton's suffrage address applies the Crossroads framework to gender-based social reform. The Current Reality describes women's political, legal, and economic subjugation, their exclusion from voting, property ownership, and autonomous legal status, establishing women's condition as fundamentally unjust and contrary to American democratic values. She grounds the human impact in concrete examples of women's vulnerability and powerlessness. The Opposition's False Promise directly challenges arguments that women lack fitness for politics, that their 'natural' sphere is domestic, and that their interests are adequately represented through male relatives. Stanton exposes these as pretexts for power maintenance, not genuine logical positions. Her Vision of Hope presents women exercising political judgment, contributing to democratic deliberation, advancing justice through legislative participation, and achieving economic independence. The Bridge to Action frames suffrage as the mechanism enabling women's advancement while positioning the audience, both supporters and skeptics, as moral agents who must choose between justice and continued oppression. Stanton connects women's suffrage to broader democratic principles and human dignity, universalizing the framework beyond gender-specific concerns. Notice how social movements deploy Crossroads rhetoric to redefine 'natural' boundaries as oppressive choices, and how moral universalism can undermine entrenched hierarchies by forcing majoritarians to acknowledge contradictions in their own stated principles.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Biographical introduction establishing Stanton's credibility and historical context."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Opens the substantive argument by identifying 'the masculine element' as the root problem in a male-dominated world."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Catalogs the historical consequences of male-dominated governance: violence, slavery, cruelty, and human suffering across centuries."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Describes the destructive state of society under male dominance and argues that men's incomplete perspective causes disorganization."
+    },
+    {
+      "label": "Opposition's False Promise",
+      "comment": "Directly refutes the counterargument that suffrage will 'masculinize' women, exposing it as a false justification for denying rights."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Articulates the alternative: a 'new evangel of womanhood' to elevate virtue, morality, and lift humanity to higher realms of thought."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Presents the positive outcome of enfranchisement: recognition of women's essential role in securing national health, strength, and prosperity."
+    },
+    {
+      "label": "Opposition's False Promise",
+      "comment": "Anticipates and deflects a potential counterargument about generalizing about all men, refining rather than weakening the core claim."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Describes the beneficial power women would wield: conserving life, preventing violence, and restraining destructive forces."
+    },
+    {
+      "label": "Bridge to Action",
+      "comment": "Uses nature analogy to argue that suffrage extension is the logical, necessary step to restore natural balance and prevent societal ruin."
+    }
+  ]
 }

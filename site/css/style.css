@@ -393,6 +393,21 @@ blockquote {
   }
 }
 
+.speech-paragraph--unlabeled {
+  border-left-color: var(--border-light);
+}
+.speech-paragraph--unlabeled::before {
+  content: none;
+}
+.para-comment {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  font-style: normal;
+  color: var(--text-light);
+  line-height: 1.4;
+}
+
 /* ===== Why Use Section ===== */
 .why-use {
   background: white;

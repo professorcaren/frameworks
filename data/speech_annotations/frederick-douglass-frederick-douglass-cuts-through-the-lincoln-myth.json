@@ -1,4 +1,70 @@
 {
   "introduction": "Frederick Douglass was the preeminent African American intellectual and orator of the nineteenth century, a formerly enslaved man who became the nation's most powerful advocate for racial justice. In 1876, at the dedication of the Freedmen's Memorial to Abraham Lincoln in Washington, D.C., attended by President Ulysses Grant and the capital's political establishment, Douglass delivered a complex assessment that challenged the emerging mythologization of Lincoln. The memorial's sculpture depicted the Great Emancipator standing over a kneeling Black man, a composition that itself embodied the paternalistic narrative Douglass intended to complicate. Speaking to a mixed-race audience including government officials, freed people, and abolitionists, Douglass honored Lincoln while refusing to falsify the historical record. His authority was unimpeachable: he had met Lincoln multiple times and recruited Black soldiers for the Union Army. His dual task was to honor Lincoln's genuine achievements while insisting that Black Americans were agents of their own liberation, not recipients of white benevolence.",
-  "analysis": "Douglass structures his oration around the Rational Advocate framework, deploying evidence to correct a false historical narrative. His Clear Position Statement is delivered with startling frankness for a dedication ceremony: 'Truth compels me to admit, even here in the presence of the monument we have erected to his memory, Abraham Lincoln was not, in the fullest sense of the word, either our man or our model. In his interests, in his associations, in his habits of thought, and in his prejudices, he was a white man.' He names the problem—the Lincoln myth—and asserts the corrective: historical truth. The Evidence Presentation is exhaustive, cataloging Lincoln's actual positions: his willingness 'to deny, postpone, and sacrifice the rights of humanity in the colored people to promote the welfare of the white people'; his delay in emancipation; his refusal to retaliate for the murder of Black prisoners. Douglass then presents counter-evidence showing Lincoln's genuine contributions once political conditions permitted. The Opposition Rebuttal addresses those who would oversimplify in either direction—idolizers and critics alike. His Logical Conclusion holds two truths simultaneously: Lincoln was 'preeminently the white man's president,' yet he also delivered emancipation when the country could tolerate it. Observe how Douglass turns a commemorative speech into forensic history, using the Rational Advocate framework to demand accurate accounting rather than comfortable mythology."
+  "analysis": "Douglass structures his oration around the Rational Advocate framework, deploying evidence to correct a false historical narrative. His Clear Position Statement is delivered with startling frankness for a dedication ceremony: 'Truth compels me to admit, even here in the presence of the monument we have erected to his memory, Abraham Lincoln was not, in the fullest sense of the word, either our man or our model. In his interests, in his associations, in his habits of thought, and in his prejudices, he was a white man.' He names the problem—the Lincoln myth—and asserts the corrective: historical truth. The Evidence Presentation is exhaustive, cataloging Lincoln's actual positions: his willingness 'to deny, postpone, and sacrifice the rights of humanity in the colored people to promote the welfare of the white people'; his delay in emancipation; his refusal to retaliate for the murder of Black prisoners. Douglass then presents counter-evidence showing Lincoln's genuine contributions once political conditions permitted. The Opposition Rebuttal addresses those who would oversimplify in either direction—idolizers and critics alike. His Logical Conclusion holds two truths simultaneously: Lincoln was 'preeminently the white man's president,' yet he also delivered emancipation when the country could tolerate it. Observe how Douglass turns a commemorative speech into forensic history, using the Rational Advocate framework to demand accurate accounting rather than comfortable mythology.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Epigraph from Douglass's speech, italicized introduction to his argument."
+    },
+    {
+      "label": null,
+      "comment": "Contextual framing: establishes Douglass's personal authority and relationship with Lincoln before the 1876 speech."
+    },
+    {
+      "label": null,
+      "comment": "Biographical background on Douglass and his abolitionist leadership; sets stage for why his assessment matters."
+    },
+    {
+      "label": null,
+      "comment": "Historical context for the 1876 dedication ceremony; introduces the problematic Lincoln myth that Douglass will challenge."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Douglass announces his core thesis: Lincoln was 'not, in the fullest sense of the word, either our man or our model' due to his prejudices."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Detailed catalog of Lincoln's racist policies: refusal to prioritize enslaved people's freedom, willingness to preserve slavery for Union's sake."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Continuation of evidence detailing Lincoln's delays, refusals, and reluctance regarding emancipation and Black military participation."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Counter-evidence: tangible achievements under Lincoln including emancipation, Black military service, Haiti recognition, and destruction of slavery."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Addresses the paradox by explaining Lincoln's apparent coldness as necessary pragmatism given the country's political sentiment."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Uses Lincoln's own words to prove his genuine moral opposition to slavery despite his racial prejudices."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Appeals to time as the impartial judge; acknowledges Lincoln faced fierce attacks from both sides, vindicating his moderate course."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Reconciliation of dual truths: Lincoln was 'better fitted for his mission' despite his limitations."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Recapitulates Lincoln's decisive crisis management at inauguration, supporting the conclusion of his fitness for office."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Details the magnitude of the rebellion Lincoln faced, reinforcing why pragmatic leadership was necessary."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Contrasts Lincoln's resolute patriotism with his predecessor's failure, cementing the rational case for Lincoln's greatness given historical constraints."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Peroration: affirms Black Americans' legitimate pride in the memorial and reframes gratitude as mutual honor between freedpeople and their liberator."
+    }
+  ]
 }

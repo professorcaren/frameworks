@@ -1,4 +1,50 @@
 {
   "introduction": "Susan B. Anthony was a pioneering women's rights activist who dedicated her life to securing voting rights for women. In November 1872, she was arrested in Rochester, New York for voting illegally in the presidential election. At her trial in June 1873, she delivered this speech before a hostile all-male courtroom, defending her actions as constitutionally protected rights. She refused to pay the $100 fine. Her case became a defining moment in the suffrage movement, demonstrating that women would face legal consequences to challenge their disenfranchisement. The speech also circulated as a public pamphlet distributed across New York State. Anthony's legal argument was as technically rigorous as it was politically bold, forcing her opponents to either deny that women were 'persons' under the law or concede that the Constitution required women's suffrage. This tension made the speech both a courtroom defense and one of the most effective pieces of suffragist advocacy of the nineteenth century.",
-  "analysis": "Anthony's speech exemplifies the Rational Advocate framework through its tight, legally disciplined argument structure. The Clear Position Statement is bold and precise: 'I stand before you tonight under indictment for the alleged crime of having voted...I not only committed no crime but, instead, simply exercised my citizen's rights, guaranteed to me and all United States citizens by the National Constitution.' She identifies the problem and asserts her solution in the same sentence. The Evidence Presentation moves methodically through the constitutional text, quoting the Preamble to establish that 'we, the people'—not 'we, the white male citizens' or 'we, the male citizens'—formed the Union: 'It was we, the whole people...women as well as men.' She then applies the Fourteenth Amendment to demonstrate that state sex restrictions constitute unlawful abridgment of citizen privileges. The Opposition Rebuttal reduces the counter-argument to absurdity through her famous rhetorical question: 'Are women persons?' She exposes the logical collapse: if women are persons, they are citizens; if citizens, they cannot be denied the ballot. The Logical Conclusion is inescapable: 'every discrimination against women in the constitutions and laws of the several states is today null and void.' Notice how Anthony's sequential reasoning transforms a political grievance into a legal proof, demonstrating the Rational Advocate's power when deployed with rigorous precision."
+  "analysis": "Anthony's speech exemplifies the Rational Advocate framework through its tight, legally disciplined argument structure. The Clear Position Statement is bold and precise: 'I stand before you tonight under indictment for the alleged crime of having voted...I not only committed no crime but, instead, simply exercised my citizen's rights, guaranteed to me and all United States citizens by the National Constitution.' She identifies the problem and asserts her solution in the same sentence. The Evidence Presentation moves methodically through the constitutional text, quoting the Preamble to establish that 'we, the people'—not 'we, the white male citizens' or 'we, the male citizens'—formed the Union: 'It was we, the whole people...women as well as men.' She then applies the Fourteenth Amendment to demonstrate that state sex restrictions constitute unlawful abridgment of citizen privileges. The Opposition Rebuttal reduces the counter-argument to absurdity through her famous rhetorical question: 'Are women persons?' She exposes the logical collapse: if women are persons, they are citizens; if citizens, they cannot be denied the ballot. The Logical Conclusion is inescapable: 'every discrimination against women in the constitutions and laws of the several states is today null and void.' Notice how Anthony's sequential reasoning transforms a political grievance into a legal proof, demonstrating the Rational Advocate's power when deployed with rigorous precision.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Epigraph introducing the famous quotation that will anchor Anthony's constitutional argument."
+    },
+    {
+      "label": null,
+      "comment": "Contextual background about Anthony's earlier advocacy for women's property rights and voting."
+    },
+    {
+      "label": null,
+      "comment": "Historical context describing the 1872 voting incident that led to her indictment."
+    },
+    {
+      "label": null,
+      "comment": "Editorial framing of Anthony's rhetorical strategies including rhetorical questioning and parallel structure."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Anthony directly states her position: she committed no crime but exercised her constitutionally guaranteed citizen's rights."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Introduces the constitutional preamble as foundational evidence for her legal argument."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Quotes the full constitutional preamble, establishing the textual foundation for the evidence."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Interprets the preamble to show that 'we, the people' includes women, and critiques the denial of voting rights."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Extends evidence with constitutional violation argument and uses extended parallel structure to emphasize the logic of disenfranchisement."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Uses dictionary definitions from Webster, Worcester, and Bouvier to establish that citizens must be 'persons entitled to vote.'"
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Reduces the opposition to absurdity with 'Are women persons?' and reaches the inevitable legal conclusion that discrimination is null and void."
+    }
+  ]
 }

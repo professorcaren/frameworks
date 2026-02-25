@@ -1,4 +1,186 @@
 {
   "introduction": "Nikita Khrushchev delivered this speech during a closed session of the 20th Congress of the Communist Party of the Soviet Union on February 25, 1956, in Moscow. His audience consisted exclusively of senior Soviet and international communist party officials, making this perhaps history's most consequential speech delivered to a restricted audience. The occasion came at a critical juncture in the Soviet succession following Stalin's death in 1953; Khrushchev sought to consolidate his power while reforming the system. By documenting Stalin's paranoia, mass executions, false accusations, and totalitarian abuses, Khrushchev aimed to purge Stalin's legacy and justify the moderate reforms his faction favored. Though initially secret, the speech eventually reached Western media and destabilized communist movements worldwide. Khrushchev needed to convince his peers that acknowledging past horrors served the party's future credibility.",
-  "analysis": "Khrushchev's speech is among the most thorough applications of the Detective Story framework in this collection. He opens the mystery directly: how could a communist state supposed to serve workers instead descend into systematic terror? The Investigation phase comprises the speech's bulk, methodically documenting Stalin's mechanisms of repression: fabricated confessions, show trials, false charges against loyal communists, mass executions of party cadres, and the paranoid purges of the 1930s through 1950s. Khrushchev builds evidence by presenting specific cases, personal testimonies, and party records that reveal systematic abuse beneath Soviet claims of justice. The Opposition Takedown targets the cult of personality around Stalin himself, the framework that elevated one person above party principles and law. His Resolution proposes collective leadership and institutional party control as the corrective, positioning reforms as restoring communist principles. The speech deviates from the framework by being entirely retrospective rather than forward-looking, investigating the past rather than proposing innovations for the future. Notice how investigating atrocities simultaneously purges the past and justifies new leadership, making historical accountability the vehicle for political consolidation."
+  "analysis": "Khrushchev's speech is among the most thorough applications of the Detective Story framework in this collection. He opens the mystery directly: how could a communist state supposed to serve workers instead descend into systematic terror? The Investigation phase comprises the speech's bulk, methodically documenting Stalin's mechanisms of repression: fabricated confessions, show trials, false charges against loyal communists, mass executions of party cadres, and the paranoid purges of the 1930s through 1950s. Khrushchev builds evidence by presenting specific cases, personal testimonies, and party records that reveal systematic abuse beneath Soviet claims of justice. The Opposition Takedown targets the cult of personality around Stalin himself, the framework that elevated one person above party principles and law. His Resolution proposes collective leadership and institutional party control as the corrective, positioning reforms as restoring communist principles. The speech deviates from the framework by being entirely retrospective rather than forward-looking, investigating the past rather than proposing innovations for the future. Notice how investigating atrocities simultaneously purges the past and justifies new leadership, making historical accountability the vehicle for political consolidation.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Editorial context identifying the speech's occasion: a closed late-night session of the 20th Party Congress, the first since Stalin's death."
+    },
+    {
+      "label": null,
+      "comment": "Editorial background on the Shvernik Commission's mandate to investigate Stalinist repression, providing context for Khrushchev's evidence base."
+    },
+    {
+      "label": null,
+      "comment": "Editorial summary of the speech's key themes: departures from Marxism-Leninism, the police state, and Stalin's vanity."
+    },
+    {
+      "label": null,
+      "comment": "Editorial note on the speech's length and its early leak to Eastern Bloc countries."
+    },
+    {
+      "label": null,
+      "comment": "Editorial note on the speech reaching the West and its historical significance as a turning point in eastern European liberalization."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Khrushchev opens by naming the central puzzle: the cult of the individual and its harmful consequences, signaling that an explanation is forthcoming."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "He frames the core mystery — how a party built on Marxism-Leninism came to elevate one person to near-divine, infallible status."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "He clarifies his investigative purpose: not a full biography of Stalin but an examination of how the cult grew and corrupted party principles."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Khrushchev sharpens the central question — how did Stalin's cult become the source of grave perversions of party democracy and revolutionary legality?"
+    },
+    {
+      "label": "Investigation",
+      "comment": "He introduces Lenin as the counter-model, whose well-known modesty and respect for collective leadership contrasts with Stalin's behavior."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Lenin's method of patient persuasion and strict observance of party norms is documented as the standard Stalin later abandoned."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Khrushchev reveals that Lenin himself detected Stalin's dangerous negative characteristics early on, providing authoritative evidence of the problem's origins."
+    },
+    {
+      "label": "Investigation",
+      "comment": "He traces how Stalin initially heeded Lenin's warnings but gradually ignored them, building the evidentiary case that the abuses were deliberate and progressive."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Stalin's invention of the label 'enemy of the people' is identified as a key mechanism that bypassed ideological proof and enabled mass repression."
+    },
+    {
+      "label": "Investigation",
+      "comment": "He documents how 'enemy of the people' eliminated ideological debate and led to torture-extracted confessions as the sole proof of guilt."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The documented consequence is made explicit: glaring violations of legality resulted in innocent party defenders becoming victims."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Khrushchev contrasts Lenin's patient re-education of ideological opponents with Stalin's entirely different and violent approach."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Lenin's leadership traits — persuasion, collective influence, party norms — are contrasted with Stalin's replacement of ideology with administrative terror and mass repression."
+    },
+    {
+      "label": "Investigation",
+      "comment": "He preemptively addresses a possible objection — that Lenin also used severe methods — conceding the point to strengthen the comparison."
+    },
+    {
+      "label": "Investigation",
+      "comment": "He documents Lenin's use of extreme measures only against actual class enemies, not against those who merely erred and could be reformed."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The key distinction is made: Stalin used mass repression after the revolution was secured and enemies liquidated, making it unjustifiable by any principled standard."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Stalin's pathological distrust is documented as the psychological engine behind the abuses, introducing a personal dimension to the systemic critique."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "His sickly suspicion created an atmosphere where no one could express independent views, exposing the cult as a tool of personal psychological domination."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Khrushchev reveals that Stalin actively promoted his own glorification, directly undercutting any claim that the cult arose organically from popular admiration."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "His Short Biography is introduced as evidence: a document of 'dissolute flattery' that transformed Stalin into an infallible godhead."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The damning detail is added that Stalin personally approved and edited all the flattery in the book, destroying any pretense of modesty."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Khrushchev reveals that Stalin marked passages where he felt his own praise was insufficient, making self-glorification an active and conscious project."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "A specific passage from the biography is quoted, in which Stalin himself wrote that he never allowed vanity or self-adulation — the irony serving as damning evidence."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Khrushchev rhetorically asks whether such self-praise is worthy of a Marxist-Leninist leader, invoking Marx, Engels, and Lenin's condemnation of it."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Stalin's personal rewriting of his biography to call himself 'the worthy continuer of Lenin's work' is quoted as concrete proof of his grandiosity."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The Stalin Prizes are introduced as another example of self-promotion institutionalized at the state level."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The national anthem's text, which omits the Communist Party while lavishing praise on Stalin, is cited as evidence of how the cult displaced party principles."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Khrushchev identifies the anthem as a clear deviation from Marxism-Leninism that debased the party's role, and announces a new anthem is already being composed."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Enterprises and monuments named after Stalin during his lifetime are listed as further evidence of the cult's pervasive and institutionalized nature."
+    },
+    {
+      "label": "Resolution",
+      "comment": "Khrushchev signals the pivot from investigation to resolution, calling for serious collective consideration of how to address the cult."
+    },
+    {
+      "label": "Resolution",
+      "comment": "He frames the closed session as the appropriate venue — internal party accountability rather than public exposure that could give ammunition to enemies."
+    },
+    {
+      "label": "Resolution",
+      "comment": "The first resolution is stated: condemn and eradicate the cult of the individual as alien to Marxism-Leninism and fight any attempts to revive it."
+    },
+    {
+      "label": "Resolution",
+      "comment": "The second resolution calls for systematically restoring Leninist principles of party leadership, above all collective leadership."
+    },
+    {
+      "label": "Resolution",
+      "comment": "The third resolution demands full restoration of Leninist socialist democracy, rule of law, and correction of all accumulated violations of revolutionary legality."
+    },
+    {
+      "label": "Resolution",
+      "comment": "Khrushchev closes by affirming the 20th Congress as a demonstration of party unity and collective resolve to build communism."
+    },
+    {
+      "label": "Resolution",
+      "comment": "Overcoming the cult is reframed as evidence of the party's moral and political strength rather than a source of shame."
+    },
+    {
+      "label": "Resolution",
+      "comment": "He offers a forward-looking assurance that the party, armed with the Congress's resolutions, will lead the Soviet people to new victories."
+    },
+    {
+      "label": "Resolution",
+      "comment": "The closing rallying cry — 'Long live the victorious banner of our party — Leninism!' — reaffirms party ideology as the corrective to Stalinism."
+    },
+    {
+      "label": null,
+      "comment": "Editorial label identifying Robert Anthony Eden as a British statesman; this is extraneous material from the source anthology, not part of the speech."
+    },
+    {
+      "label": null,
+      "comment": "Editorial biography of Eden included in the anthology source; not part of Khrushchev's speech."
+    }
+  ]
 }

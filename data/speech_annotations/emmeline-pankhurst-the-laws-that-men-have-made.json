@@ -1,4 +1,122 @@
 {
   "introduction": "Emmeline Pankhurst was the founder and leader of the Women's Social and Political Union, the most militant wing of the British suffrage movement, which she had co-founded in 1903 after growing frustrated with the NUWSS's parliamentary petitioning strategy. She delivered this speech in 1908 in the Portman Rooms during the Putney by-election, one of a series of lectures given under the umbrella title 'The Importance of the Vote.' She spoke to audiences of women and potential allies at a moment when suffrage activism was escalating from civil disobedience toward property destruction. Her strategy in this speech was methodical rather than militant: she catalogued specific British laws governing marriage, divorce, child custody, and women's property rights to demonstrate concretely why women needed the vote. The occasion demanded persuasion, not just inspiration: Pankhurst needed to show skeptical audiences that 'politics' directly determined the conditions of ordinary women's lives.",
-  "analysis": "Pankhurst employs the Call to Conscience framework with unusual legal precision. She begins by establishing shared moral ground through a principle her audience cannot dispute: 'It is important for women that in any legislation that affects women equally with men, those who make the laws should be responsible to women.' This invokes consent of the governed, a value her audience already accepts. The Demonstration of Moral Outrage proceeds through a catalog of specific legal injustices, each more vivid than the last: a wife has 'no legal claim upon any definite portion of his income'; a husband needs to prove only one act of infidelity to divorce his wife, but a wife must prove 'bigamy, desertion or gross cruelty, in addition to immorality'; 'by English law, no married woman exists as the mother of the child she brings into the world.' The Herefordshire case—an unmarried servant sent to prison for child neglect while no one asked the father's identity—functions as the speech's moral flashpoint. The Contrast with Moral Ideal is stated simply: 'If women had had the vote, as men have the vote, we should have had equal laws.' Her Call to Moral Action frames the vote not as women's political ambition but as a prerequisite for reforming laws that harm women. Observe how Pankhurst's choice to ground moral outrage in legal specifics, rather than abstract principle, makes her conscience appeal harder to dismiss as mere sentiment."
+  "analysis": "Pankhurst employs the Call to Conscience framework with unusual legal precision. She begins by establishing shared moral ground through a principle her audience cannot dispute: 'It is important for women that in any legislation that affects women equally with men, those who make the laws should be responsible to women.' This invokes consent of the governed, a value her audience already accepts. The Demonstration of Moral Outrage proceeds through a catalog of specific legal injustices, each more vivid than the last: a wife has 'no legal claim upon any definite portion of his income'; a husband needs to prove only one act of infidelity to divorce his wife, but a wife must prove 'bigamy, desertion or gross cruelty, in addition to immorality'; 'by English law, no married woman exists as the mother of the child she brings into the world.' The Herefordshire case—an unmarried servant sent to prison for child neglect while no one asked the father's identity—functions as the speech's moral flashpoint. The Contrast with Moral Ideal is stated simply: 'If women had had the vote, as men have the vote, we should have had equal laws.' Her Call to Moral Action frames the vote not as women's political ambition but as a prerequisite for reforming laws that harm women. Observe how Pankhurst's choice to ground moral outrage in legal specifics, rather than abstract principle, makes her conscience appeal harder to dismiss as mere sentiment.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Biographical context about the founding of suffrage organizations; does not engage the framework."
+    },
+    {
+      "label": null,
+      "comment": "Historical context about activist tactics and partial legislative gains; establishes the problem but not yet moral ground."
+    },
+    {
+      "label": null,
+      "comment": "Speech introduction and framing; announces the methodical, reasoned approach to come."
+    },
+    {
+      "label": null,
+      "comment": "Speaker acknowledges repetition of message; signals transition to substantive argument."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "The central principle: those affected by laws should have a voice in making them—a democratic value the audience already accepts."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Expands the principle by explaining why women specifically need representation: legislators ignore women's needs because they lack organized political power."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Shifts tone by asserting that despite women's urgent needs, legislation for women 'has been practically at a standstill' and identifies specific unjust laws."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Refutes the false argument that politics do not concern women; shows laws directly determine marriage, child education, and family structure—all supposedly 'woman's domain.'"
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Opens the catalog of legal injustices with marriage laws; establishes that women sacrifice economic independence without legal security or compensation."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details the wife's legal powerlessness: husband controls shelter, food, clothing, household spending; wife has no remedy if starved or abused."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Appeals to the audience's sense that even if most men are better than law requires, bad men should not escape accountability—makes the case for legal reform."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Demonstrates widow's vulnerability: a husband can legally disinherit his wife and children, leaving her dependent on luck rather than rights."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Transitions to divorce law; signals further injustices are coming."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Core injustice on divorce: husband needs one act of infidelity to divorce; wife needs bigamy, desertion, or gross cruelty plus infidelity—a deliberate legal asymmetry."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Transitions to mother's legal status; announces this topic has been repeated at meetings, signaling its importance."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Stark assertion of the central legal injustice: 'no married woman exists as the mother of the child she brings into the world'—a moral flashpoint."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details the father's exclusive legal authority over the child's residence, education, religious upbringing, and spending."
+    },
+    {
+      "label": "Contrast with Moral Ideal",
+      "comment": "Poses the question that invokes the moral ideal: if women had voted, would such unjust laws exist? Asserts they would have had equal laws instead."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Highlights the perverse logic for unmarried mothers: legally responsible for the child, punished for neglect, while fathers bear no accountability."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Concrete vivid case: Herefordshire servant sent to prison for child neglect while no one investigated the father—the speech's moral flashpoint."
+    },
+    {
+      "label": "Contrast with Moral Ideal",
+      "comment": "Again invokes the moral ideal through a question: would women legislators not have made fathers equally responsible with mothers?"
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Refutes the claim that women's influence suffices; shows it only works when men already agree—reinforcing the need for women's legal power."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Extends the argument to future social legislation on housing and declares it a moral question requiring women's voice."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Warns of the stakes: without women's voice in legislation, women may face 'the worst kind of tyranny'; calls for women to demand inclusion in decisions about homes."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Applies the argument to education; asserts men have failed to educate children properly because they have not consulted women's experience."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Reinforces the vital importance of the vote as the method to address injustices already catalogued."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Final appeal: asks listeners to consider the question seriously; frames the vote as a moral duty to do necessary work for the community, not as ambition or imitation."
+    },
+    {
+      "label": null,
+      "comment": "Biographical information about Lenin; unrelated to Pankhurst's speech and framework."
+    },
+    {
+      "label": null,
+      "comment": "Additional biographical context about Lenin; ends the speech material."
+    }
+  ]
 }

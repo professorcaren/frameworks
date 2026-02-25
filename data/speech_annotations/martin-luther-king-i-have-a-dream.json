@@ -1,4 +1,138 @@
 {
   "introduction": "Martin Luther King Jr. delivered this address on August 28, 1963, at the Lincoln Memorial during the March on Washington for Jobs and Freedom—a gathering of approximately 250,000 people, roughly a fifth of whom were white, that represented the largest civil rights demonstration in American history to that point. King had worked on the speech until 4am the night before, crafting the first half carefully; the famous 'I have a dream' sequence was largely improvised after gospel singer Mahalia Jackson shouted 'Tell them about the dream!' The march was organized to pressure Congress to pass President Kennedy's Civil Rights Bill. King spoke as the final speaker of the day, following leaders from the NAACP, CORE, SNCC, and labor unions. The speech begins with legal and constitutional argument, escalates through mounting urgency, then pivots to visionary prophecy that transcended politics and became a defining expression of American moral aspiration.",
-  "analysis": "King's speech maps precisely onto the Emotional Escalator framework's six stages. The Attention Catalyst is the opening image of Lincoln's Emancipation Proclamation as 'a great beacon light of hope,' immediately establishing the speech's moral and historical stakes. Problem Recognition escalates through specific grievances: 'the negro is still languished in the corners of American society'; victims of police brutality cannot gain lodging in motels; a Mississippi Negro cannot vote. The concrete injustices mount, each more visceral than the last. The Alternative Analysis rejects gradualism directly: 'This is no time to engage in the luxury of cooling off or to take the tranquillizing drug of gradualism.' The Solution Vision appears in the speech's famous second half—the improvised dream sequence—where King describes children of former slaves and slaveholders sitting together, where Mississippi becomes 'an oasis of freedom,' where his own children are judged 'not by the color of their skin but by the content of their character.' The Emotional Projection is the crowd at the base of the Lincoln Memorial, which King invokes as evidence of collective possibility. The Action Imperative closes the speech: 'Let freedom ring' from every mountain, valley, and state, until 'all of God's children...will be able to join hands' as brothers and sisters. Notice how the speech's emotional escalation is structural: the shift from legal argument to prophetic vision marks the transition from problem-focused stages to solution-focused ones."
+  "analysis": "King's speech maps precisely onto the Emotional Escalator framework's six stages. The Attention Catalyst is the opening image of Lincoln's Emancipation Proclamation as 'a great beacon light of hope,' immediately establishing the speech's moral and historical stakes. Problem Recognition escalates through specific grievances: 'the negro is still languished in the corners of American society'; victims of police brutality cannot gain lodging in motels; a Mississippi Negro cannot vote. The concrete injustices mount, each more visceral than the last. The Alternative Analysis rejects gradualism directly: 'This is no time to engage in the luxury of cooling off or to take the tranquillizing drug of gradualism.' The Solution Vision appears in the speech's famous second half—the improvised dream sequence—where King describes children of former slaves and slaveholders sitting together, where Mississippi becomes 'an oasis of freedom,' where his own children are judged 'not by the color of their skin but by the content of their character.' The Emotional Projection is the crowd at the base of the Lincoln Memorial, which King invokes as evidence of collective possibility. The Action Imperative closes the speech: 'Let freedom ring' from every mountain, valley, and state, until 'all of God's children...will be able to join hands' as brothers and sisters. Notice how the speech's emotional escalation is structural: the shift from legal argument to prophetic vision marks the transition from problem-focused stages to solution-focused ones.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Contextual introduction to the March on Washington event and speech's significance."
+    },
+    {
+      "label": null,
+      "comment": "Background on how the speech was constructed (first half prepared, second half improvised)."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "Opening statement of solidarity establishes emotional connection with the assembled crowd."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "Lincoln and the Emancipation Proclamation as 'great beacon light of hope' creates the foundational moral image."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Direct statement of central injustice: 'the negro still is not free' despite 100 years."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Specific grievances: segregation, discrimination, poverty isolation of Black Americans."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Further specifics: Black Americans 'languished in corners' and are 'exiles in his own land.'"
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "The 'promissory note' metaphor establishes what America promised but failed to deliver."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "America has 'defaulted' on its promise, giving a 'bad cheque' marked 'insufficient funds.'"
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Rejects despair and insolvency: 'We refuse to believe that the bank of justice is bankrupt.'"
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Invokes 'fierce urgency of now'—establishes temporal pressure and immediate need for justice."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Explicitly rejects gradualism as inadequate solution; demands immediate action through vivid contrasts."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Warns of consequences if urgency is ignored; frames waiting as existential threat to the nation."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Threatens continued upheaval until justice emerges, emphasizing unacceptability of status quo."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Addresses the audience directly about their moral status and shared journey to justice."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Calls audience to nonviolent conduct; appeals to dignity, discipline, and moral integrity."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Invokes collective strength through 'soul force' and shared commitment to peaceful resistance."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Acknowledges white allies and intertwined destinies; builds inclusive coalition vision."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Details unspeakable hardships: police brutality, denial of lodging, voting suppression."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Culminates grievance catalog with specific regional examples (Mississippi, New York voting disenfranchisement)."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Honors the suffering and persistence of those who have endured trials; reframes suffering as redemptive."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Transition from grief to hope; introduces the dream and positions it as rooted in American ideals."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "First dream image: nation living its founding creed of human equality."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Vivid dreams of racial reconciliation, Mississippi transformed, and children judged by character not color."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Dream continues: former enemies joining as brothers and sisters in Alabama and across the South."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Poetic vision of transformed landscape where justice becomes visible and universal."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Faith-based confidence that despair will become hope and discord will become harmony."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "Announces the day when all God's children sing together with new meaning and freedom."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "Invokes the hymn 'My Country 'Tis of Thee' as collective expression of achieved freedom."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "'Let freedom ring' refrain from every mountain and state across the nation; geographic escalation of call."
+    },
+    {
+      "label": null,
+      "comment": "Preface to the Malcolm X quote; contextual boundary marker (not part of King's speech)."
+    },
+    {
+      "label": null,
+      "comment": "Malcolm X quote (contrasting perspective; not part of King's speech)."
+    },
+    {
+      "label": null,
+      "comment": "Biographical context on Malcolm X (not part of King's speech)."
+    }
+  ]
 }

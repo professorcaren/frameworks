@@ -1,4 +1,98 @@
 {
   "introduction": "Albert Einstein, the preeminent theoretical physicist of the twentieth century, delivered this statement in February 1950 during a television program hosted by Eleanor Roosevelt. At age 71, Einstein was deeply involved in anti-nuclear advocacy, haunted by his 1939 letter to President Franklin Roosevelt that had helped initiate the Manhattan Project. Having contributed to the theoretical foundations of atomic energy and then witnessed the destruction of Hiroshima and Nagasaki, Einstein occupied a uniquely authoritative and burdened position from which to speak about nuclear security. The speech aired during the early Cold War, just after the United States announced accelerated development of the hydrogen bomb, as the arms race between the US and USSR intensified. Einstein's intervention carried extraordinary credibility: the scientist who had unlocked atomic energy was now arguing that the weapons derived from it endangered all life on earth.",
-  "analysis": "Einstein employs the Rational Advocate framework with the precision of scientific argument. His Clear Position Statement is unambiguous: 'The idea of achieving security through national armament is, at the present state of military technique, a disastrous illusion.' He names both the problem—the prevailing security doctrine—and his counter-thesis. The Evidence Presentation traces the logical consequences of the arms race with systematic rigor: military thinking governs every foreign policy decision; the arms race has assumed 'a hysterical character'; the H-bomb brings 'radioactive poisoning of the atmosphere and hence annihilation of any life on Earth' within technical reach. Einstein's argument is structural: he demonstrates that 'every step appears as the unavoidable consequence of the preceding one,' showing the system's internal logic drives toward 'general annihilation.' This is not emotional appeal but logical modeling. The Opposition Rebuttal addresses the prevailing doctrine of security through superior military power, exposing the circular trap: each defensive buildup provokes the opponent's matching buildup, making all parties less secure. His Logical Conclusion is precise: security requires 'a supranational judicial and executive body' with binding authority, not competitive armament. Observe how Einstein leverages scientific credibility to reframe a political question as a technical problem with a knowable solution, demonstrating that the Rational Advocate's power depends on the speaker's expertise directly authorizing their claims."
+  "analysis": "Einstein employs the Rational Advocate framework with the precision of scientific argument. His Clear Position Statement is unambiguous: 'The idea of achieving security through national armament is, at the present state of military technique, a disastrous illusion.' He names both the problem—the prevailing security doctrine—and his counter-thesis. The Evidence Presentation traces the logical consequences of the arms race with systematic rigor: military thinking governs every foreign policy decision; the arms race has assumed 'a hysterical character'; the H-bomb brings 'radioactive poisoning of the atmosphere and hence annihilation of any life on Earth' within technical reach. Einstein's argument is structural: he demonstrates that 'every step appears as the unavoidable consequence of the preceding one,' showing the system's internal logic drives toward 'general annihilation.' This is not emotional appeal but logical modeling. The Opposition Rebuttal addresses the prevailing doctrine of security through superior military power, exposing the circular trap: each defensive buildup provokes the opponent's matching buildup, making all parties less secure. His Logical Conclusion is precise: security requires 'a supranational judicial and executive body' with binding authority, not competitive armament. Observe how Einstein leverages scientific credibility to reframe a political question as a technical problem with a knowable solution, demonstrating that the Rational Advocate's power depends on the speaker's expertise directly authorizing their claims.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Establishes context for the speech and Einstein's authority through biographical framing."
+    },
+    {
+      "label": null,
+      "comment": "Provides historical background on Einstein's 1939 letter initiating the Manhattan Project."
+    },
+    {
+      "label": null,
+      "comment": "Explains Einstein's moral burden and subsequent advocacy for nuclear arms control."
+    },
+    {
+      "label": null,
+      "comment": "Contextualizes Einstein's credibility despite political persecution and establishes why his platform matters."
+    },
+    {
+      "label": null,
+      "comment": "Brief transition acknowledging the opportunity to speak on this critical political issue."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "States the core thesis directly: national armament for security is a dangerous illusion under current conditions."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Identifies the false assumption underlying the opponent's position: belief in achieving decisive military superiority."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Names the prevailing doctrine Einstein opposes: security through superior military power at any cost."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Demonstrates how the militaristic doctrine determines every foreign policy decision with systematic consequences."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Catalogs domestic consequences: military control of finances, youth militarization, surveillance, and thought control."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Documents propaganda and information suppression as inevitable outcomes of the militaristic worldview."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Observes the arms race assuming pathological characteristics, contradicting its stated preventive purpose."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Presents specific evidence of escalation: the H-bomb development as an accelerating arms race milestone."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Extends the logical chain to its catastrophic endpoint: atmospheric poisoning and annihilation of all life."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Synthesizes the evidence into a structural argument showing each military step necessitates the next toward inevitable destruction."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Pivots to directly challenge the prevailing doctrine by questioning whether escape is possible and exposing war mentality persisting in peacetime."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Refutes the security-through-force doctrine by reframing peace as impossible under conflict-driven political logic."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Proposes the first essential step: eliminating mutual fear and distrust as foundational to genuine security."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Introduces the second requirement: solemn renunciation of violence as a binding commitment."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Presents the comprehensive institutional solution: a supranational governing body with judicial and executive authority."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Grounds the solution in a universal principle: peaceful cooperation depends on mutual trust, not institutions alone."
+    },
+    {
+      "label": null,
+      "comment": "Biographical information about Khrushchev, not part of Einstein's argument."
+    },
+    {
+      "label": null,
+      "comment": "Extended biographical details about Khrushchev, contextualizing Soviet leadership during the Cold War."
+    }
+  ]
 }

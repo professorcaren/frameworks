@@ -1,4 +1,126 @@
 {
   "introduction": "Barbara Jordan was a groundbreaking African American congresswoman from Texas who began serving in the House of Representatives in 1973. In July 1974, as a member of the House Judiciary Committee, she delivered this statement during televised impeachment proceedings against President Richard Nixon. Jordan, the first Black woman elected to the Texas State Senate and a trained constitutional lawyer, spoke to a national television audience weighing whether a sitting president had committed impeachable offenses. Her measured, authoritative delivery and constitutional precision stood out against the more partisan statements of colleagues on both sides. The speech draws its force not just from its content but from who delivered it: a Black woman from the South, historically excluded from the 'We, the people' she cited, now commanding national attention during a constitutional crisis. Jordan's intervention established constitutional principle as the controlling framework for the proceedings and earned her the keynote role at the 1976 Democratic National Convention.",
-  "analysis": "Jordan's statement applies the Rational Advocate framework with exceptional precision. The Clear Position Statement opens with memorable authority: 'My faith in the Constitution is whole, it is complete, it is total. I am not going to sit here and be an idle spectator to the diminution, the subversion, the destruction of the Constitution.' She names both the problem—presidential misconduct—and the controlling standard—the constitutional definition of impeachment—in her opening paragraphs. The Evidence Presentation is systematic and historically grounded: Jordan marshals quotations from Federalist No. 65, the Virginia and North Carolina ratification conventions, and Woodrow Wilson, building a scaffold of precedent before presenting specific Nixon conduct, including his June 23, 1972 knowledge of Republican money tied to Watergate burglars. The Opposition Rebuttal addresses those claiming evidence is 'thin' by noting that the recital 'did not include what the president did know.' Her Logical Conclusion is carefully constructed: if the president engaged in conduct meeting the constitutional threshold, 'the powers relating to impeachment are an essential check' the committee must exercise. Observe how Jordan's opening personal reflection—'I was not included in that \"We, the people\"'—functions as a credibility claim: her defense of the Constitution is simultaneously a claim of belonging to it."
+  "analysis": "Jordan's statement applies the Rational Advocate framework with exceptional precision. The Clear Position Statement opens with memorable authority: 'My faith in the Constitution is whole, it is complete, it is total. I am not going to sit here and be an idle spectator to the diminution, the subversion, the destruction of the Constitution.' She names both the problem\u2014presidential misconduct\u2014and the controlling standard\u2014the constitutional definition of impeachment\u2014in her opening paragraphs. The Evidence Presentation is systematic and historically grounded: Jordan marshals quotations from Federalist No. 65, the Virginia and North Carolina ratification conventions, and Woodrow Wilson, building a scaffold of precedent before presenting specific Nixon conduct, including his June 23, 1972 knowledge of Republican money tied to Watergate burglars. The Opposition Rebuttal addresses those claiming evidence is 'thin' by noting that the recital 'did not include what the president did know.' Her Logical Conclusion is carefully constructed: if the president engaged in conduct meeting the constitutional threshold, 'the powers relating to impeachment are an essential check' the committee must exercise. Observe how Jordan's opening personal reflection\u2014'I was not included in that \"We, the people\"'\u2014functions as a credibility claim: her defense of the Constitution is simultaneously a claim of belonging to it.",
+  "paragraphs": [
+    {
+      "label": "Clear Position Statement",
+      "comment": "The epigraph crystallizes Jordan's core commitment: she will actively defend the Constitution, not watch passively as it is undermined."
+    },
+    {
+      "label": null,
+      "comment": "Biographical and contextual framing provided by the anthology editor, not part of the speech itself."
+    },
+    {
+      "label": null,
+      "comment": "Editor's introduction describing Jordan's rhetorical style and the historical significance of the statement."
+    },
+    {
+      "label": null,
+      "comment": "Ceremonial opening acknowledging the chairman; establishes collegial tone before the substantive argument begins."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Jordan anchors her authority by acknowledging her own exclusion from the original Constitution and her hard-won inclusion through amendment, establishing why she has a personal stake in defending it."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Jordan states her role as inquisitor and declares her faith in the Constitution in absolute terms, making her guiding principle unmistakable."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan cites Federalist No. 65 to define the constitutional scope of impeachment jurisdiction and rebuts the claim that voting for impeachment requires certainty of removal."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan draws on Hamilton's Federalist No. 65 and multiple state ratification conventions to establish the narrow, constitutionally defined nature of impeachment as a check on executive excess."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The North Carolina ratification convention quote reinforces that officers who commit oppression are not immune, adding another layer of founding-era precedent."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Hamilton's warning about the passions that impeachment proceedings inflame anticipates partisan attacks on the committee's motives."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Jordan insists that whatever political motivations exist, impeachment must be measured against the constitutional standard of 'high crimes and misdemeanors,' not partisan interest."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Woodrow Wilson's definition raises the threshold for impeachment, framing it as requiring gross offenses that transcend party lines."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Jordan preemptively counters any suggestion that the committee is acting on petty or political grounds by contrasting the gravity of the task with Congress's heavy legislative agenda."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Jordan directly rebukes the morning's argument that CIA misuse evidence is thin by pointing to what the president did know on June 23, 1972, regarding campaign funds found on a Watergate burglar."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan adds specificity to the June 23 evidence by cataloguing E. Howard Hunt's prior activities known to the president, strengthening the case for presidential knowledge and complicity."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Jordan refutes the call to delay proceedings pending new presidential evidence by noting the outstanding subpoena has produced nothing and the committee remains ready to receive material."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The eight-hour wait for the president's compliance with the Supreme Court order is presented as concrete evidence of presidential defiance of constitutional authority."
+    },
+    {
+      "label": null,
+      "comment": "Transitional sentence announcing the systematic juxtaposition of constitutional impeachment criteria with Nixon's specific conduct."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Madison's ratification convention standard — that a president who shelters suspicious associates may be impeached — is introduced as the first formal criterion."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan applies the Madison criterion to documented evidence that Nixon knew campaign funds were paid to Watergate defendants."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The twenty-seven meetings with Petersen, followed immediately by meetings with implicated persons, directly satisfy Madison's 'suspicious manner' and 'shelter' standard."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Justice Story's definition of impeachment as protecting the people's rights and rescuing their liberties introduces the second formal criterion."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The Huston plan and the break-in of Dr. Fielding's office under presidential direction are presented as evidence satisfying Story's 'protect their rights' criterion."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The echo of Story's phrases 'protect their rights' and 'rescue their liberties' rhetorically links the preceding Nixon conduct to the constitutional violation."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "The South Carolina ratification convention criterion — impeachable conduct includes behaving amiss or betraying public trust — is introduced as the third formal standard."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan presents the pattern of public false statements and obstruction beginning after the Watergate break-in as conduct meeting the 'betray their public trust' criterion."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Jordan explicitly connects Nixon's false assertions to the South Carolina betrayal-of-public-trust standard, completing the criterion-to-conduct syllogism."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Madison's standard that attempting to subvert the Constitution is impeachable is introduced as the fourth and culminating criterion."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Jordan catalogs presidential conduct — counseling perjury, disregarding grand jury secrecy, concealing surreptitious entry, and attempting to compromise a federal judge — as evidence of subverting the Constitution."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Jordan closes with a stark logical ultimatum: if this conduct does not meet the constitutional threshold for impeachment, the Constitution itself is obsolete; therefore the committee must proceed on reason, not passion."
+    }
+  ]
 }

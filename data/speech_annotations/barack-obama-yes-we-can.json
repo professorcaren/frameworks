@@ -1,4 +1,298 @@
 {
-  "introduction": "Barack Obama delivered this speech on the night of November 4, 2008, in Grant Park, Chicago, after being elected the 44th President of the United States—the first African American to hold that office. He addressed an enormous crowd in the park and a global television audience watching one of the most anticipated election results in American history. Obama had run a 21-month campaign built on grassroots organizing, small-donor fundraising, and the message of hope and change that defeated Hillary Clinton in the Democratic primary and John McCain in the general election. His victory came less than fifty years after the Civil Rights Act. The speech had to accomplish two things simultaneously: celebrate a genuinely historic achievement while immediately pivoting to the enormous challenges ahead—two wars, a catastrophic financial crisis, and a divided country. The 'Yes We Can' refrain, borrowed from the United Farm Workers movement, had been the campaign's anthem.",
-  "analysis": "Obama's election night speech applies the Emotional Escalator to a moment of historic achievement rather than urgent crisis. The Attention Catalyst opens with a rhetorical challenge—'If there is anyone out there who still doubts that America is a place where all things are possible'—immediately establishing that this moment is its own answer. The Problem Recognition stage is notably restrained: Obama acknowledges 'two wars, a planet in peril, the worst financial crisis in a century' without dwelling on them, keeping the speech's dominant register celebratory rather than urgent. The Alternative Analysis appears in his rejection of cynicism: 'we as a people will get there,' he promises—implicitly countering those who said his candidacy was impossible. The Solution Vision centers on the story of Ann Nixon Cooper, a 106-year-old Atlanta woman who has witnessed a century of American transformation—from women's suffrage to the moon landing to civil rights—culminating in this election. With each chapter of her life, Obama delivers the refrain 'Yes we can,' building the escalation through accumulation rather than intensity. The Emotional Projection asks listeners to imagine their own children living to see further change. The Action Imperative is framed as responsibility: 'This is your victory...what we have already achieved gives us hope for what we can and must achieve tomorrow.' Notice how Obama uses historical narrative—not abstract principle—to generate emotional escalation, making Ann Nixon Cooper's century-long arc the vehicle for projecting collective possibility."
+  "introduction": "Barack Obama delivered this speech on the night of November 4, 2008, in Grant Park, Chicago, after being elected the 44th President of the United States\u2014the first African American to hold that office. He addressed an enormous crowd in the park and a global television audience watching one of the most anticipated election results in American history. Obama had run a 21-month campaign built on grassroots organizing, small-donor fundraising, and the message of hope and change that defeated Hillary Clinton in the Democratic primary and John McCain in the general election. His victory came less than fifty years after the Civil Rights Act. The speech had to accomplish two things simultaneously: celebrate a genuinely historic achievement while immediately pivoting to the enormous challenges ahead\u2014two wars, a catastrophic financial crisis, and a divided country. The 'Yes We Can' refrain, borrowed from the United Farm Workers movement, had been the campaign's anthem.",
+  "analysis": "Obama's election night speech applies the Emotional Escalator to a moment of historic achievement rather than urgent crisis. The Attention Catalyst opens with a rhetorical challenge\u2014'If there is anyone out there who still doubts that America is a place where all things are possible'\u2014immediately establishing that this moment is its own answer. The Problem Recognition stage is notably restrained: Obama acknowledges 'two wars, a planet in peril, the worst financial crisis in a century' without dwelling on them, keeping the speech's dominant register celebratory rather than urgent. The Alternative Analysis appears in his rejection of cynicism: 'we as a people will get there,' he promises\u2014implicitly countering those who said his candidacy was impossible. The Solution Vision centers on the story of Ann Nixon Cooper, a 106-year-old Atlanta woman who has witnessed a century of American transformation\u2014from women's suffrage to the moon landing to civil rights\u2014culminating in this election. With each chapter of her life, Obama delivers the refrain 'Yes we can,' building the escalation through accumulation rather than intensity. The Emotional Projection asks listeners to imagine their own children living to see further change. The Action Imperative is framed as responsibility: 'This is your victory...what we have already achieved gives us hope for what we can and must achieve tomorrow.' Notice how Obama uses historical narrative\u2014not abstract principle\u2014to generate emotional escalation, making Ann Nixon Cooper's century-long arc the vehicle for projecting collective possibility.",
+  "paragraphs": [
+    {
+      "label": "Attention Catalyst",
+      "comment": "Obama opens with a rhetorical challenge to doubt, framing the election result itself as the answer to anyone who questioned American possibility."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "The long lines of voters become living evidence that the moment is real and consequential, amplifying the opening's historic significance."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "A sweeping catalog of American diversity reinforces that this victory belongs to the whole nation, not any one group."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "Obama connects the cynical and doubtful to the arc of history, completing the opening hook's claim that this moment answers all skepticism."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "The declaration that 'change has come to America' closes the opening with a definitive, emotionally charged statement of historic fact."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "Transferring ownership of the victory to the audience builds immediate emotional investment and a sense of shared personal stake."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "Obama contrasts his unlikely candidacy with the grassroots origin of the campaign, grounding the historic moment in ordinary American places."
+    },
+    {
+      "label": "Attention Catalyst",
+      "comment": "The description of volunteers and organizers defines the campaign as a movement of the people, invoking the Lincolnian ideal of self-governance."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Obama pivots from celebration to naming the enormous challenges ahead\u2014two wars, financial crisis, and a planet in peril\u2014without letting them eclipse the moment."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Invoking soldiers waking in Iraq and Afghanistan grounds the stakes in lives at risk, adding moral weight to the challenges ahead."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "The image of parents lying awake over mortgages and medical bills personalizes the economic crisis for ordinary families."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "A rapid list of tasks\u2014energy, jobs, schools, alliances\u2014signals the breadth of work still required without dwelling on any single problem."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Acknowledging the road will be long and steep manages expectations honestly while refusing to diminish hope."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "The short emphatic promise 'we as a people will get there' closes the problem section with a forward-looking assurance."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "The audience chant of 'Yes we can' responds to the challenges just named, transforming acknowledgment of difficulty into collective resolve."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Obama acknowledges setbacks, disagreements, and government's limits\u2014countering any expectation of a magical or effortless transformation."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "He pledges honesty, listening, and collaborative effort, reframing governance as participatory work rather than top-down delivery of solutions."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "The reminder that the campaign began in winter and must continue past election night signals that change is a process, not a single event."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Obama explicitly warns that victory is not the change sought but only the opportunity for it, and that going back to the old ways is possible."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Change cannot happen without the people's active participation, linking desired outcome directly to collective responsibility."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The call to summon a new spirit of patriotism and mutual responsibility begins to paint the positive alternative that collective effort can build."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The financial crisis is reframed as a lesson about shared fate\u2014Wall Street and Main Street cannot thrive separately\u2014pointing toward a more equitable economy."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The vision of rising or falling together as one nation rejects partisanship and defines the aspirational future Obama is calling the country toward."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Invoking Lincoln's Illinois and founding Republican values of self-reliance and national unity frames the solution vision as bipartisan and historically grounded."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Obama accepts Democratic victory with humility and commits to healing divides, broadening the vision beyond partisan triumph."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The Lincoln quote about friends, not enemies, provides historical authority for the vision of national reconciliation."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Obama addresses Americans who did not vote for him, pledging to be their president too\u2014extending the solution vision to the whole electorate."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The address to the global audience frames American leadership as a renewed dawn of shared possibility for the world."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Declaring that America's strength lies in democratic ideals rather than military or economic might articulates the core of the solution vision."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "The assertion that America can change and the union can be perfected anchors the solution vision in American democratic tradition."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The introduction of Ann Nixon Cooper, a 106-year-old Atlanta voter, begins the speech's central escalator\u2014a single life that spans American transformation."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The vivid description of her birth one generation past slavery, with no cars, no planes, and no vote for women or Black Americans, makes the arc of change tangible."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Obama invites listeners to see a century of history through Cooper's eyes, building empathy and projecting collective memory onto one woman's life."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The women's suffrage chapter of Cooper's story delivers the first 'Yes we can,' initiating the escalating refrain that will carry the speech's emotional peak."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The New Deal chapter connects economic despair and democratic resilience, deepening the historical emotional arc with a story of national recovery."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The audience chant after the New Deal chapter creates participatory emotional escalation between speaker and crowd, reinforcing the refrain's cumulative power."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "World War II is framed through Cooper's witness to a generation rising to greatness, adding another layer to the cumulative emotional ascent."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "A second audience chant reinforces the participatory rhythm of the historical escalator sequence."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The Civil Rights Movement\u2014buses in Montgomery, hoses in Birmingham, Selma bridge, and King's preaching\u2014reaches the most emotionally charged chapter of Cooper's life."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "A third audience chant deepens the emotional resonance following the Civil Rights chapter, the most powerful historical moment in the sequence."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The moon landing and fall of the Berlin Wall continue the arc of achievement, broadening the vision from American to global human possibility."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Cooper's finger touching a screen to cast her ballot after 106 years of witnessed history is the emotional climax of the narrative arc."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The standalone 'Yes we can' at the peak of the escalator functions as both a declaration and an emotional release point."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "The audience chant at the peak of the escalating sequence marks the highest point of collective emotional intensity in the speech."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Obama turns the projection forward\u2014asking what change our children will see if they live as long as Cooper\u2014shifting from past witness to future possibility."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "The declaration that 'this is our chance to answer that call' converts the emotional height of the Cooper narrative into a direct summons to action."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "A catalog of specific goals\u2014work, opportunity, prosperity, peace, the American dream\u2014defines what the moment demands from the people."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "The closing 'Yes we can' fuses the campaign refrain, the historical escalator, and the call to future action into a single decisive statement."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments from the anthology; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments listing library sources; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments noting especially helpful contributors; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments listing research debts; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments for the current edition; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher acknowledgments listing book sources and copyright permissions; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher copyright contact notice; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher boilerplate about the founding of Penguin Books; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher boilerplate quoting Allen Lane on accessible publishing; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher boilerplate about the arrival of quality paperbacks; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher boilerplate about Penguin's ongoing mission; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher boilerplate about the Penguin brand promise; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher website link; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Social media call to action from publisher; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Social media links from publisher; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher logo image; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher imprint information listing Penguin offices worldwide; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher registered office listing; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publisher website link; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Publication history of the anthology editions; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Copyright notice for the anthology; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Acknowledgments extension note; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "ISBN listing for the anthology; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Footnote reference to Richard Nixon; not part of Obama's speech."
+    },
+    {
+      "label": null,
+      "comment": "Footnote reference to Thomas Masaryk; not part of Obama's speech."
+    }
+  ]
 }

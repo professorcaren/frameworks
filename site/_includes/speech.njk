@@ -25,17 +25,16 @@ layout: base.njk
 </div>
 {% endif %}
 
-{% if speech.analysis %}
-<div class="framework-analysis" style="border-color: {{ fw.color }}; background: {{ fw.colorLight }}">
-  <h2>Framework Analysis: {{ fw.name }}</h2>
-  {{ speech.analysis | markdown | safe }}
-</div>
-{% endif %}
-
 <div class="speech-text">
   <h2>Full Text</h2>
-  <div class="speech-body">
-    {{ speech.speechHtml | safe }}
+  <div class="annotated-speech">
+    {% for para in speech.paragraphs %}
+      <div class="speech-paragraph{% if not para.label %} speech-paragraph--unlabeled{% endif %}"
+           {% if para.label %}data-label="{{ para.label }}" style="border-color: {{ fw.color }}"{% endif %}>
+        <p>{{ para.text }}</p>
+        {% if para.comment %}<small class="para-comment">{{ para.comment }}</small>{% endif %}
+      </div>
+    {% endfor %}
   </div>
 </div>
 

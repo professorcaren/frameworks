@@ -1,4 +1,62 @@
 {
   "introduction": "Robin Cook served as the United Kingdom's Foreign Secretary from 1997 to 2001 under Prime Minister Tony Blair before becoming Leader of the House of Commons. On March 17, 2003, as British forces prepared to join the American invasion of Iraq, Cook delivered this resignation speech to Parliament—the most watched parliamentary statement of the era. Cook had spent four years responsible for Western containment policy toward Iraq and had access to classified intelligence assessments about Saddam Hussein's weapons capabilities. His resignation carried weight because of his insider knowledge: he was not an antiwar protester but a senior official who had evaluated the evidence and found it insufficient to justify military action. Speaking to parliamentary colleagues who would vote the next day, Cook made his case through measured, documented argument about burden of proof, international consensus, and the distinction between possibility and verified threat.",
-  "analysis": "Cook's resignation speech demonstrates the Rational Advocate framework deployed under extreme institutional pressure. His Clear Position Statement defines both the problem and his standard: 'I cannot support a war without international agreement or domestic support.' He establishes the evidentiary threshold he will apply throughout. The Evidence Presentation is systematic: Cook cites the absence of a second UN Security Council resolution; the opposition of France, Germany, and Russia; the failure to achieve NATO or EU consensus. He deploys his own expert testimony as former foreign secretary: 'Over the past decade that strategy destroyed more weapons than in the Gulf War, dismantled Iraq's nuclear weapons programme.' He identifies the key logical paradox in the government's position: 'We cannot base our military strategy on the assumption that Saddam is weak and at the same time justify pre-emptive action on the claim that he is a threat.' The Opposition Rebuttal addresses comparisons to Kosovo—noting NATO support existed then but not now—and rebuts the impatience argument by asking why thirty-year Israeli non-compliance with Resolution 242 receives no similar urgency. His Logical Conclusion is measured: lacking international legitimacy, domestic support, and verified imminent threat, military action cannot be justified. Note how Cook's credibility as a former foreign secretary, rather than an outsider, makes his argument more devastating than any external critique could have been."
+  "analysis": "Cook's resignation speech demonstrates the Rational Advocate framework deployed under extreme institutional pressure. His Clear Position Statement defines both the problem and his standard: 'I cannot support a war without international agreement or domestic support.' He establishes the evidentiary threshold he will apply throughout. The Evidence Presentation is systematic: Cook cites the absence of a second UN Security Council resolution; the opposition of France, Germany, and Russia; the failure to achieve NATO or EU consensus. He deploys his own expert testimony as former foreign secretary: 'Over the past decade that strategy destroyed more weapons than in the Gulf War, dismantled Iraq's nuclear weapons programme.' He identifies the key logical paradox in the government's position: 'We cannot base our military strategy on the assumption that Saddam is weak and at the same time justify pre-emptive action on the claim that he is a threat.' The Opposition Rebuttal addresses comparisons to Kosovo—noting NATO support existed then but not now—and rebuts the impatience argument by asking why thirty-year Israeli non-compliance with Resolution 242 receives no similar urgency. His Logical Conclusion is measured: lacking international legitimacy, domestic support, and verified imminent threat, military action cannot be justified. Note how Cook's credibility as a former foreign secretary, rather than an outsider, makes his argument more devastating than any external critique could have been.",
+  "paragraphs": [
+    {
+      "label": "Clear Position Statement",
+      "comment": "Establishes the core standard: cannot support war without international agreement or domestic support."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Documents diplomatic failure—no second resolution, coalitions disintegrated, partnerships weakened."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Contrasts current Iraq situation with Kosovo precedent where multilateral support from NATO, EU, and regional neighbors existed."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Emphasizes that neither the international community nor the British public perceives an urgent humanitarian crisis."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Establishes the high threshold for military action and argues casualties will be severe despite war not yet beginning."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Rebuts the claim that opposing war means not supporting troops; distinguishes between military action and troop support."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Deploys personal expertise as former foreign secretary to demonstrate containment strategy successfully reduced Iraq's military capacity over past decade."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Identifies the logical contradiction: cannot simultaneously claim Saddam is too weak to invade yet pose an urgent threat requiring preemption."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Rebuts impatience argument by noting Israel has ignored Resolution 242 for thirty years without similar urgency, revealing inconsistent standards."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Addresses credibility concerns and Washington's true motivations, showing that progress on inspections creates consternation rather than satisfaction."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Cites the sound judgment and prevailing mood of the British people as evidence against military action without international coalition."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Invokes Parliament's democratic authority and role as the central institution that can demonstrate Britain's true position."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "States his decision to vote against military action and announces his resignation, which logically follows from the lack of international agreement and domestic support."
+    },
+    {
+      "label": null,
+      "comment": null
+    }
+  ]
 }

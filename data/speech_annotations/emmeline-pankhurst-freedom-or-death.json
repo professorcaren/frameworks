@@ -1,4 +1,34 @@
 {
   "introduction": "Emmeline Pankhurst delivered this address in Hartford, Connecticut, in November 1913, during a North American fundraising and consciousness-raising tour for the Women's Social and Political Union. At this point in the British suffrage movement, the WSPU had escalated from civil disobedience to property destruction, arson, and mass hunger strikes. Pankhurst herself had been imprisoned repeatedly under the 'Cat and Mouse Act,' which allowed authorities to release hunger-striking prisoners near death and re-arrest them once they recovered. She arrived in America under a deportation threat—the government considered her a convicted criminal and dangerous agitator. Speaking to a sympathetic Hartford audience, she faced the task of justifying militant tactics that many Americans considered extreme or counterproductive, and of raising money and political support for a movement that the British government was actively suppressing.",
-  "analysis": "Pankhurst structures her speech around the Emotional Escalator, using each stage to build toward acceptance of militant resistance as the only rational response. The Attention Catalyst is striking and self-aware: 'I am here as a person who...has been decided, is of no value to the community at all...under sentence of penal servitude in a convict prison.' She immediately establishes her own body and legal status as the evidence—she does not describe the movement's predicament, she embodies it. The Problem Recognition stage catalogs fifty years of failed peaceful petition: 'We were determined to press this question...to the point where we were no longer to be ignored by the politicians as had been the case for about fifty years.' The Alternative Analysis methodically demolishes each peaceful strategy: questions at public meetings led to arrest; petitions led to prison; sympathy from men 'never brought us anything.' The Solution Vision redefines militancy through historical precedent: 'You won your freedom in America...by bloodshed...You won the Civil War by the sacrifice of human life.' She positions property destruction as a lesser measure than what American men had already accepted as legitimate. The Emotional Projection builds to her ultimatum: 'the government of England...has to face this alternative; either women are to be killed or women are to have the vote.' The Action Imperative is a direct call to American men: support British suffragists or 'put back civilization two or three generations.' Notice how Pankhurst uses the Emotional Escalator to reframe criminal behavior as logical necessity, making acceptance of her position feel like the only rational conclusion."
+  "analysis": "Pankhurst structures her speech around the Emotional Escalator, using each stage to build toward acceptance of militant resistance as the only rational response. The Attention Catalyst is striking and self-aware: 'I am here as a person who...has been decided, is of no value to the community at all...under sentence of penal servitude in a convict prison.' She immediately establishes her own body and legal status as the evidence—she does not describe the movement's predicament, she embodies it. The Problem Recognition stage catalogs fifty years of failed peaceful petition: 'We were determined to press this question...to the point where we were no longer to be ignored by the politicians as had been the case for about fifty years.' The Alternative Analysis methodically demolishes each peaceful strategy: questions at public meetings led to arrest; petitions led to prison; sympathy from men 'never brought us anything.' The Solution Vision redefines militancy through historical precedent: 'You won your freedom in America...by bloodshed...You won the Civil War by the sacrifice of human life.' She positions property destruction as a lesser measure than what American men had already accepted as legitimate. The Emotional Projection builds to her ultimatum: 'the government of England...has to face this alternative; either women are to be killed or women are to have the vote.' The Action Imperative is a direct call to American men: support British suffragists or 'put back civilization two or three generations.' Notice how Pankhurst uses the Emotional Escalator to reframe criminal behavior as logical necessity, making acceptance of her position feel like the only rational conclusion.",
+  "paragraphs": [
+    {
+      "label": "Attention Catalyst",
+      "comment": "Pankhurst establishes her striking personal credentials—convicted criminal, soldier, person of no legal value—to capture attention and position herself as an embodied witness to the movement's struggle."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Catalogs fifty years of patient, peaceful petition by women that was systematically ignored by politicians, establishing the intractability of peaceful approaches."
+    },
+    {
+      "label": "Alternative Analysis",
+      "comment": "Methodically examines why practical demands matter more than sympathy, contrasting fifty years of ineffective gentle persuasion against the need for tangible results."
+    },
+    {
+      "label": "Problem Recognition",
+      "comment": "Demonstrates that even severe punishment (imprisonment of hundreds of women) failed to deter the movement, reinforcing the depth and urgency of the problem."
+    },
+    {
+      "label": "Solution Vision",
+      "comment": "Reframes political philosophy: government rests on consent, not force, positioning women's resistance as a logical demonstration of this truth."
+    },
+    {
+      "label": "Emotional Projection",
+      "comment": "Presents the stark binary ultimatum (women must be killed or given the vote) and directly appeals to American men's values to build emotional pressure toward capitulation."
+    },
+    {
+      "label": "Action Imperative",
+      "comment": "Invokes American precedent (Revolution and Civil War) and demands action: support British suffragists or accept civilizational regression."
+    }
+  ]
 }

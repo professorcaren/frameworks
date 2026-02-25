@@ -1,4 +1,154 @@
 {
   "introduction": "Ernesto 'Che' Guevara delivered this reflective speech on August 19, 1960, in Havana, Cuba, just eighteen months after the revolution's triumph, while serving in senior roles in Castro's government. Guevara was uniquely positioned to articulate the revolution's ideological significance: he had been a medical doctor who witnessed poverty and injustice across Latin America, then joined Castro's movement and played a crucial military role in the insurgency's victory. In this speech, he recounts his personal transformation from bourgeois professional to revolutionary, positioning himself as emblematic of the broader social upheaval Cuba was undergoing. Speaking to audiences seeking to understand how revolution transforms consciousness and commitment, Guevara modeled the psychological and ethical shift revolutionaries undergo. The speech influenced activists and fighters across the developing world, establishing Guevara's philosophy that revolution required total personal commitment and fundamental reorientation of values, not merely political or military victory.",
-  "analysis": "Guevara's speech applies the Case History framework to consciousness transformation and ideological conversion. He introduces himself as the primary character whose journey from doctor to revolutionary embodies the speech's thesis. The conflict section recounts vivid experiences: witnessing colonial exploitation in Guatemala, observing continental poverty and disease, recognizing that medical charity without systemic change accomplishes nothing. These personal encounters drive his transformation; the conflict is both external (social injustice) and internal (growing consciousness that professional detachment is complicity). Guevara broadens the lens by arguing his individual transformation mirrors necessary collective change: revolution is not merely military seizure of power but fundamental reorientation of human commitment and values. The call to action is philosophical and existential: to become truly revolutionary requires not merely joining a movement but undergoing the same consciousness-raising journey Guevara describes. The framework deviates by emphasizing internal psychological change over external suffering, though lived experience of injustice remains foundational. Notice how Case History adapts to ideological contexts, where personal narrative becomes testimony to consciousness-raising, and individual biography proves that revolution requires and produces new forms of commitment."
+  "analysis": "Guevara's speech applies the Case History framework to consciousness transformation and ideological conversion. He introduces himself as the primary character whose journey from doctor to revolutionary embodies the speech's thesis. The conflict section recounts vivid experiences: witnessing colonial exploitation in Guatemala, observing continental poverty and disease, recognizing that medical charity without systemic change accomplishes nothing. These personal encounters drive his transformation; the conflict is both external (social injustice) and internal (growing consciousness that professional detachment is complicity). Guevara broadens the lens by arguing his individual transformation mirrors necessary collective change: revolution is not merely military seizure of power but fundamental reorientation of human commitment and values. The call to action is philosophical and existential: to become truly revolutionary requires not merely joining a movement but undergoing the same consciousness-raising journey Guevara describes. The framework deviates by emphasizing internal psychological change over external suffering, though lived experience of injustice remains foundational. Notice how Case History adapts to ideological contexts, where personal narrative becomes testimony to consciousness-raising, and individual biography proves that revolution requires and produces new forms of commitment.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Biographical context about Guevara's image and historical standing; framing material."
+    },
+    {
+      "label": null,
+      "comment": "Biographical details about Guevara's education and intellectual development; establishes credibility."
+    },
+    {
+      "label": null,
+      "comment": "Narrative of his role in the Cuban revolution; historical context."
+    },
+    {
+      "label": null,
+      "comment": "Description of post-revolutionary Cuba and Guevara's reformist activities; sets contemporary context."
+    },
+    {
+      "label": null,
+      "comment": "Introductory framing of the speech's context and purpose."
+    },
+    {
+      "label": null,
+      "comment": "Additional biographical context about Guevara's speaking style and legacy."
+    },
+    {
+      "label": "Introduce the Subject",
+      "comment": "Guevara introduces himself as the primary subject—a former doctor now revolutionary—establishing his dual identity."
+    },
+    {
+      "label": "Introduce the Subject",
+      "comment": "Introduces his formative experience of traveling throughout Latin America post-graduation."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Vivid description of witnessing poverty, disease, and inability to treat patients; the human suffering that shaped his consciousness."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "The central realization that individual effort cannot solve systemic problems; isolation is futile."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Necessity of collective mobilization and revolution to create meaningful change."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "How arms and militant unity are essential instruments of revolutionary transformation."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Shifts focus from personal narrative to broader question of how revolutionary professionals must serve society."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Introduces evidence of new humanity emerging in Cuba; empirical demonstration of revolutionary transformation."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Vivid example of children from impoverished backgrounds transformed by revolutionary access to education."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Description of children encountering modernity for the first time and learning revolutionary values collectively."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Generalization that new humanity is emerging across Cuba in multiple contexts."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Articulates the integration of medical professionals into revolutionary movement; connects personal narrative to collective task."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Envisions preventive, community-based medicine as superior to individualistic charity model."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Acknowledges that individual commitment remains necessary within revolutionary transformation."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Places Cuban revolution within larger global context of capitalism's defeat; expands scale of analysis."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Prescriptive guidance for medical professionals to understand the people's history of oppression and suffering."
+    },
+    {
+      "label": "Broaden the Lens",
+      "comment": "Affirms doctors' unique position of intimacy with patients and their psychological depths."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Concrete example of conflict: newly graduated doctors refusing to serve rural areas without additional pay."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Empathetic acknowledgment of doctors' bourgeois perspective; understanding their position while challenging it."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Counterfactual contrast: peasant-origin doctors would eagerly serve their communities, demonstrating commitment born from lived experience."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Future projection of a new generation of worker and peasant-origin professionals; transformation already beginning."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Guevara's own privileged origins contrasted with his learning of genuine hardship in the Sierra Maestra mountains."
+    },
+    {
+      "label": "Describe the Conflict",
+      "comment": "Collective realization that human life is infinitely more valuable than property—fundamental value transformation."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Direct challenge to privileged revolutionaries: if we learned revolutionary commitment, why cannot others?"
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Articulates the revolutionary demand for consciousness shift and emotional reorientation; serving others as moral duty."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Practical vision of doctors as multi-skilled workers; reimagining professional identity to serve collective agricultural needs."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Humble approach: doctors must learn alongside the people, not impose expertise; mutuality replaces hierarchy."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Restates the central thesis: revolution first, then commitment to knowing the people with whom one works."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Describes doctors' role in revolutionary defense and militia service; social integration through shared sacrifice."
+    },
+    {
+      "label": "Call to Action Through Empathy",
+      "comment": "Final call to action: solidarity, clear goals and enemies, and individual daily commitment to the revolutionary march."
+    },
+    {
+      "label": null,
+      "comment": "Biographical information about JFK; contextual material unrelated to speech framework."
+    }
+  ]
 }

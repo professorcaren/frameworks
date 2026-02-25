@@ -1,4 +1,146 @@
 {
   "introduction": "Desmond Tutu delivered this speech on December 11, 1984, in Oslo, Norway, upon accepting the Nobel Peace Prize, an honor that represented international recognition of his role as apartheid South Africa's moral conscience. At the time, apartheid remained firmly entrenched; the new South African constitution introduced in 1983 had extended limited participation to Indians and so-called 'Coloured' people while entirely excluding Black South Africans. Tutu, an Anglican bishop who refused to stay silent despite personal risk, used the world's highest-profile platform to expose apartheid's mechanisms and moral consequences. His audience was simultaneously the Nobel Committee, the assembled dignitaries in Oslo, and, through global media, the international community whose investment, trade, and diplomatic recognition sustained apartheid. His religious authority gave his condemnation an intensity that purely political critics could not match: he was not arguing that apartheid was poor policy but that it was a sin against God.",
-  "analysis": "Tutu employs the Call to Conscience framework with theological precision and moral absolutism. He establishes shared moral ground by invoking both Christian theology and universal human dignity: 'When will we learn that human beings are of infinite value because they have been created in the image of God, and that it is a blasphemy to treat them as if they were less than this?' This framing makes opposing apartheid a theological obligation, not merely a political preference. The Demonstration of Moral Outrage proceeds through relentless specificity: the government spends 'about one-tenth on one black child per annum for education what it spends on a white child'; 'over three million of God's children have been uprooted from their homes...I say dumped advisedly: only things or rubbish is dumped, not human beings.' He explicitly compares apartheid to Nazi Germany's 'final solution,' forcing the international community to recognize the gravity of their complicity. The Contrast with Moral Ideal appears in Tutu's vision of South Africa as 'a land...with radiant sunshine, golden sunshine...enough for everyone,' a natural abundance deliberately corrupted by apartheid's greed. His Call to Moral Action targets the international community directly: Western media covers a single murdered priest but ignores 24 Black South Africans killed in the same week. Note how Tutu uses this asymmetry as a moral indictment of his audience, making their inaction—not only apartheid—the subject of his conscience appeal."
+  "analysis": "Tutu employs the Call to Conscience framework with theological precision and moral absolutism. He establishes shared moral ground by invoking both Christian theology and universal human dignity: 'When will we learn that human beings are of infinite value because they have been created in the image of God, and that it is a blasphemy to treat them as if they were less than this?' This framing makes opposing apartheid a theological obligation, not merely a political preference. The Demonstration of Moral Outrage proceeds through relentless specificity: the government spends 'about one-tenth on one black child per annum for education what it spends on a white child'; 'over three million of God's children have been uprooted from their homes...I say dumped advisedly: only things or rubbish is dumped, not human beings.' He explicitly compares apartheid to Nazi Germany's 'final solution,' forcing the international community to recognize the gravity of their complicity. The Contrast with Moral Ideal appears in Tutu's vision of South Africa as 'a land...with radiant sunshine, golden sunshine...enough for everyone,' a natural abundance deliberately corrupted by apartheid's greed. His Call to Moral Action targets the international community directly: Western media covers a single murdered priest but ignores 24 Black South Africans killed in the same week. Note how Tutu uses this asymmetry as a moral indictment of his audience, making their inaction—not only apartheid—the subject of his conscience appeal.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Contextual framing by anthology editor; not from Tutu's speech proper."
+    },
+    {
+      "label": null,
+      "comment": "Contextual framing by anthology editor; Mandela quote about Tutu."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Aarvik recalls Tutu's ministry embodying non-hatred and peaceful resistance, establishing moral consensus against violence."
+    },
+    {
+      "label": null,
+      "comment": "Editorial transition; sets stage for Tutu's lyrical description of South Africa."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Tutu invokes God's bounty and natural beauty as shared human inheritance, establishing ethical baseline that resources belong to all."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Presents concrete evidence: 20% of population claims 87% of land, 73% of population excluded from political participation."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details constitutional injustice and bantustan system, showing legal machinery of apartheid enforces exclusion."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Illustrates loss of citizenship as deliberate dehumanization of Black South Africans."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Compares apartheid to Nazi genocide, invoking historical moral gravity and demanding international recognition of equivalent evil."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Catalogs forced removals of millions with vivid language ('dumped') contrasting human worth with object treatment."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Exposes deliberate government starvation policy amid abundance, showing moral intent behind suffering."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Describes systemic family destruction through migrant labor policy, emphasizing human cost."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Reinforces previous point about deliberate policy causing social pathology."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details education inequality (1/10th spending per Black child) as calculated waste of human potential."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Catalogs Population Registration Act dividing families by race, including child suicides resulting from such classification."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Condemns laws prohibiting interracial marriage as making 'something beautiful...sordid and ugly.'"
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details indefinite detention without due process, showing government abuse of judicial power."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Emphasizes deaths in custody and systemic abuse, quantifying human cost of repression."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Catalogs oppressive banning orders destroying freedom of movement, association, and family participation."
+    },
+    {
+      "label": "Contrast with Moral Ideal",
+      "comment": "Concludes outrage section by contrasting documented rights violations with ideals of justice and human freedom."
+    },
+    {
+      "label": null,
+      "comment": "Rhetorical joke about justice in South Africa, puncturing tension but not advancing framework argument."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "References 72 years of peaceful protest and Black Nobel laureates, establishing shared value of nonviolence."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Contrasts Black nonviolence with government violence; catalogs Sharpeville massacre as proof of brutal response."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Details 1976 student uprising and killings, showing repeated patterns of violence against peaceful protest."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Quantifies Soweto uprising deaths (500+) and lost children, emphasizing scale of tragedy."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Directly indicts Western media and audience for ignoring Black deaths while covering White deaths—a moral challenge to international listeners."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Frames audience complicity: rhetorical question about whether Western indifference signals Black expendability and racial betrayal."
+    },
+    {
+      "label": "Contrast with Moral Ideal",
+      "comment": "Restates the gap: current South Africa bereft of justice, without peace or security until apartheid ends."
+    },
+    {
+      "label": "Demonstrate Moral Outrage",
+      "comment": "Describes civil war and armed struggle as inevitable response to 1960 bans, showing how repression generates violence."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Expands framework from South Africa to global injustice: arms race vs. starvation, wealth inequality, reframes as universal moral failing."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Invokes theological anthropology: God created humans for fellowship and interdependence, not self-sufficiency."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Issues urgent moral imperative: work assiduously so all enjoy human rights and full humanity measured by Christ's standard."
+    },
+    {
+      "label": "Establish Shared Moral Ground",
+      "comment": "Reiterates foundational moral truth: humans have infinite value as created in God's image; dehumanizing others dehumanizes oppressor."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Calls audience to become peacemakers and workers for justice, framing activism as God's work."
+    },
+    {
+      "label": "Call to Moral Action",
+      "comment": "Final vision: God calls humanity to extend kingdom of justice, compassion, reconciliation—highest aspirational call to action."
+    }
+  ]
 }

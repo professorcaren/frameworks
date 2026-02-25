@@ -1,4 +1,231 @@
 {
-  "introduction": "Clarence Darrow was one of America's most celebrated trial lawyers, famous for defending unpopular clients in landmark cases including the 1924 Leopold and Loeb murder trial and the 1925 Scopes 'monkey trial.' His speech opposing capital punishment was delivered on October 27, 1924, in a public debate against New York City Judge Alfred J. Talley. Over a career in which he defended roughly one hundred clients charged with murder—none of whom were sentenced to death—Darrow developed a comprehensive argument against the death penalty grounded in psychology, criminology, and the failures of deterrence theory. He spoke as a legal professional whose courtroom experience gave him direct knowledge of who faces execution and under what circumstances. His advocacy helped establish the framework for contemporary death penalty abolition arguments, and this speech remains one of the most rigorous and rhetorically vivid anti-capital punishment statements in American history.",
-  "analysis": "Darrow's debate speech exemplifies the Rational Advocate framework, deploying multiple categories of evidence with disciplined logical structure. His Clear Position Statement is delivered with characteristic bluntness: capital punishment is both ineffective and morally indefensible, and should be abolished. The Evidence Presentation moves methodically through the key claims for the death penalty. On deterrence: 'in all of these states where the mortality by homicide is great, they have capital punishment and always have had it'—the punishment correlates with higher, not lower, homicide rates. On premeditation: Darrow argues that meaningful premeditation is psychologically impossible, undermining the legal distinction that justifies execution. On equal justice: 'as a rule, it is the poor and the weak and the friendless who furnish the victims of the law.' The Opposition Rebuttal is inventive and cutting: Darrow addresses the deterrence claim by asking why, if severity of punishment deters, we don't return to boiling people in oil: 'Why not burn them at the stake? Why not sew them into a bag with serpents?' This reductio ad absurdum exposes the logical inconsistency in the retributive position. His Logical Conclusion is stark: 'It is a question of how you feel, that is all.' Observe how Darrow's willingness to invoke psychology and social science alongside legal argument demonstrates the Rational Advocate's flexibility, and how his prosecutorial directness creates persuasive force even when addressing abstract principles."
+  "introduction": "Clarence Darrow was one of America's most celebrated trial lawyers, famous for defending unpopular clients in landmark cases including the 1924 Leopold and Loeb murder trial and the 1925 Scopes 'monkey trial.' His speech opposing capital punishment was delivered on October 27, 1924, in a public debate against New York City Judge Alfred J. Talley. Over a career in which he defended roughly one hundred clients charged with murder\u2014none of whom were sentenced to death\u2014Darrow developed a comprehensive argument against the death penalty grounded in psychology, criminology, and the failures of deterrence theory. He spoke as a legal professional whose courtroom experience gave him direct knowledge of who faces execution and under what circumstances. His advocacy helped establish the framework for contemporary death penalty abolition arguments, and this speech remains one of the most rigorous and rhetorically vivid anti-capital punishment statements in American history.",
+  "analysis": "Darrow's debate speech exemplifies the Rational Advocate framework, deploying multiple categories of evidence with disciplined logical structure. His Clear Position Statement is delivered with characteristic bluntness: capital punishment is both ineffective and morally indefensible, and should be abolished. The Evidence Presentation moves methodically through the key claims for the death penalty. On deterrence: 'in all of these states where the mortality by homicide is great, they have capital punishment and always have had it'\u2014the punishment correlates with higher, not lower, homicide rates. On premeditation: Darrow argues that meaningful premeditation is psychologically impossible, undermining the legal distinction that justifies execution. On equal justice: 'as a rule, it is the poor and the weak and the friendless who furnish the victims of the law.' The Opposition Rebuttal is inventive and cutting: Darrow addresses the deterrence claim by asking why, if severity of punishment deters, we don't return to boiling people in oil: 'Why not burn them at the stake? Why not sew them into a bag with serpents?' This reductio ad absurdum exposes the logical inconsistency in the retributive position. His Logical Conclusion is stark: 'It is a question of how you feel, that is all.' Observe how Darrow's willingness to invoke psychology and social science alongside legal argument demonstrates the Rational Advocate's flexibility, and how his prosecutorial directness creates persuasive force even when addressing abstract principles.",
+  "framework": "Rational Advocate",
+  "paragraphs": [
+    {
+      "label": "Clear Position Statement",
+      "comment": "The epigraph encapsulates Darrow's core thesis: opposition to capital punishment is ultimately a matter of emotional disposition toward killing."
+    },
+    {
+      "label": null,
+      "comment": "Biographical introduction establishing Darrow's credentials as a labor lawyer and defense attorney."
+    },
+    {
+      "label": null,
+      "comment": "Further biographical context describing Darrow's famous cases, including Scopes and Leopold and Loeb."
+    },
+    {
+      "label": null,
+      "comment": "Contextual framing explaining the occasion of the debate against Judge Alfred J. Talley in 1924."
+    },
+    {
+      "label": null,
+      "comment": "Editorial analysis of Darrow's rhetorical style, noting his use of sarcasm, rhetorical questions, and Swift-like satire."
+    },
+    {
+      "label": null,
+      "comment": "Opening remark dismissing the opponent's address with confident brevity, setting a combative tone."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow directly refutes his opponent's claim that every man's heart knows killing is wrong, arguing instead that humans universally enjoy the thought of killing."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow continues his rebuttal by asserting that supporters of capital punishment are motivated by a desire for violence, not justice."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow presents a psychological observation that all human emotions exist in every person to varying degrees, grounding his argument in human nature."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow dismisses his opponent's use of statistics as an unreliable rhetorical device, framing the debate as resting on deeper principles."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow notes that states with high homicide rates already have capital punishment, suggesting deterrence is not working."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow claims that states without capital punishment show lower homicide percentages, challenging the deterrence argument with comparative data."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow concedes the statistical ambiguity but argues the question rests on emotions and principles rather than quantitative proof."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow uses the high death rate for Black victims in Memphis as evidence of how capital punishment systems reflect racial violence, not justice."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow attributes the post-war increase in homicide rates to society's normalization of killing during wartime, not to inadequate punishment."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow argues that state-sanctioned killing teaches citizens to devalue life, and that the state must stop killing if it wants citizens to respect life."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow argues that homicide rates are higher in societies with greater equality and opportunity, not simply because of lenient punishment."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow directly addresses the opponent's claim that convicted killers dread hanging, distinguishing between the mental state at the time of crime versus at trial."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow argues the fear of punishment at trial is irrelevant because the mental state during the killing is entirely different, undermining the deterrence rationale."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow dismisses the moral authority of the state to kill by noting that killing is what states do, and power is not the same as right."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Using Swift-like satirical escalation, Darrow argues that if severity of punishment deters, logic demands returning to far more brutal historical penalties."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow extends his satire by invoking the 'glorious days' of mass executions for heresy and witchcraft, exposing the historical absurdity of capital punishment as deterrent."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow pushes the reductio ad absurdum further, questioning why we have reduced the list of capital crimes if punishment severity truly prevents crime."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow illustrates how arbitrary and personal the definition of capital crime is by noting that prohibitionists would hang people for drinking."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow observes that murderers are often among the most trustworthy prison inmates, while petty criminals remain incorrigible, challenging assumptions about who deserves death."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow sarcastically challenges his opponent's claim that poor defendants receive quality legal representation, drawing on his Chicago courtroom experience."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow asserts that it is 'the poor and the weak and the friendless' who are executed, providing evidence of systemic inequality in capital punishment's application."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow challenges the legal concept of premeditation as psychologically meaningless, questioning whether any judge or person truly understands it."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow argues that premeditation as a legal category is scientifically invalid because human actions are always driven by prior causes beyond individual control."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow extends his determinism argument, asserting that free will-based notions of premeditation are unscientific metaphysical fictions."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow argues that justice is unknowable and that mercy, charity, and understanding are the only guideposts humans can reliably follow."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow challenges Judge Talley's criticism of prison amenities, arguing that objecting to humane prison conditions reveals a desire for revenge, not justice."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow argues that people who want harsher prison conditions would never be able to abolish capital punishment, exposing the retributive mindset."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow questions the purpose of punishment, arguing there is no justification for torturing prisoners beyond their imprisonment."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow continues challenging the rationale for additional prison suffering, using rhetorical questions to expose the cruelty of punitive thinking."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow uses sarcasm about 'dietary food' in prison to mock the idea that prison conditions are too comfortable, highlighting the cruelty of the opposing view."
+    },
+    {
+      "label": null,
+      "comment": "Darrow inserts a humorous personal anecdote about considering prison dining as an alternative to his hotel, using levity to deflate his opponent's complaints."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow provides specific details about prison dining privileges to show how modest the actual conditions are, undercutting claims of excessive prisoner comfort."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow draws on his direct experience with incarcerated people to assert that no one wants to be in prison, regardless of any small amenities."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow asks the audience to imagine a friend or relative in prison and how they would want them treated, using empathy to counter the punitive worldview."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow returns to his core thesis: opposition to capital punishment is entirely a matter of one's emotional relationship to the act of killing."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow surveys the history of brutal punishment across civilizations, arguing that cruelty has always been driven by hatred masquerading as righteousness."
+    },
+    {
+      "label": null,
+      "comment": "Darrow uses a wry personal observation about parental punishment to deflate the self-righteous claim that punishment hurts the punisher more than the punished."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow traces humanity's gradual elimination of brutal punishments to growing sensitivity and imagination, framing abolition as moral progress."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow cites historical evidence that capital laws were eliminated not by courts but by juries too humane to enforce them, showing how popular sentiment leads reform."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow continues tracing the historical reduction of capital offenses in England from 170 to 2, arguing this trend will continue until abolition is complete."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow states directly that capital punishment is 'too horrible a thing for a state to undertake' and that the state should be morally superior to murderers."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow argues that state killing is pure anger without logic, made in exact imitation of the murderer's act, not justice."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow enumerates his reasons for opposing capital punishment: it is inhuman, historically regressive, soon to be abolished worldwide, and has no deterrent effect."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow identifies domestic passion as the second-largest source of murder, arguing these killings arise from deep emotional forces impervious to deterrence."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow uses the example of a crime of passion to show that no rational calculus about punishment enters a killer's mind in the moment, disproving deterrence."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow argues that killings during robbery are acts of self-preservation instinct, not rational choices that could be deterred by threat of execution."
+    },
+    {
+      "label": "Clear Position Statement",
+      "comment": "Darrow delivers his logical conclusion: there is no admissible argument for capital punishment, and the state's sanctity for life promotes individual respect for life."
+    },
+    {
+      "label": "Evidence Presentation",
+      "comment": "Darrow argues that war and state killing are the two greatest forces cheapening human life, linking capital punishment to broader devaluation of life."
+    },
+    {
+      "label": "Opposition Rebuttal",
+      "comment": "Darrow challenges the premise that guilt can ever be fully determined, arguing that the complexity of human psychology makes certainty of culpability impossible."
+    },
+    {
+      "label": "Logical Conclusion",
+      "comment": "Darrow concludes with a deterministic argument: all people are products of heredity and environment, so judging anyone worthy of death requires an impossible standard of knowledge."
+    }
+  ]
 }

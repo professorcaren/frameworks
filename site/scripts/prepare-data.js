@@ -214,11 +214,9 @@ function main() {
       // Remove footnote-style references
       .filter((p) => !p.match(/^\d+\s*$/));
 
-    const speechHtml = paragraphs.map((p) => `<p>${p}</p>`).join("\n");
-
     // Check for annotations
     let introduction = "";
-    let analysis = "";
+    let annotatedParagraphs = null;
     const annotationPath = path.join(ANNOTATIONS_DIR, `${slug}.json`);
     if (fs.existsSync(annotationPath)) {
       try {
@@ -226,11 +224,28 @@ function main() {
           fs.readFileSync(annotationPath, "utf-8")
         );
         introduction = annotation.introduction || "";
-        analysis = annotation.analysis || "";
+        if (annotation.paragraphs && Array.isArray(annotation.paragraphs)) {
+          if (annotation.paragraphs.length === paragraphs.length) {
+            annotatedParagraphs = paragraphs.map((text, i) => ({
+              text,
+              label: annotation.paragraphs[i].label || null,
+              comment: annotation.paragraphs[i].comment || null,
+            }));
+          } else {
+            console.warn(`Paragraph count mismatch for ${slug}: annotation has ${annotation.paragraphs.length}, speech has ${paragraphs.length}. Falling back to unlabeled.`);
+          }
+        }
       } catch (e) {
         console.error(`Error reading annotation for ${slug}:`, e.message);
       }
     }
+
+    // If no valid annotated paragraphs, use unlabeled
+    const outputParagraphs = annotatedParagraphs || paragraphs.map((text) => ({
+      text,
+      label: null,
+      comment: null,
+    }));
 
     speeches.push({
       title: displayTitle,
@@ -241,8 +256,7 @@ function main() {
       frameworkSlug,
       summary,
       introduction,
-      analysis,
-      speechHtml,
+      paragraphs: outputParagraphs,
     });
   }
 

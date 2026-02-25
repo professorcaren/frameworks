@@ -1,4 +1,70 @@
 {
   "introduction": "Lyndon B. Johnson delivered this commencement address at the University of Michigan in May 1964, at a pivotal moment in his presidency. The Vietnam War was escalating, civil rights legislation was advancing through Congress, and Johnson envisioned an ambitious domestic agenda. Addressing university graduates and, by extension, the nation, Johnson articulated a comprehensive vision for American society beyond poverty, material consumption, and racial injustice. The occasion allowed him to frame social reform as aligned with young Americans' idealistic impulses, crucial as anti-war sentiment was beginning to mobilize on campuses. Johnson spoke before an educated, future-leading audience, seeking to inspire their participation in social transformation and to establish the moral legitimacy of his expansive social programs. The speech launched the political branding of the 'Great Society,' which would define his presidency and reshape American government's role in addressing social problems.",
-  "analysis": "Johnson's Great Society speech deploys the Crossroads framework to mobilize support for comprehensive social reform. The Current Reality describes existing American problems, persistent poverty despite material abundance, racial injustice, inadequate education and healthcare, establishing emotional and moral urgency for transformation. The Opposition's False Promise emerges implicitly: Johnson rejects the materialist assumption that consumer capitalism and economic growth alone constitute progress, exposing a narrow vision of the good life. His Vision of Hope presents a detailed picture of reformed society: cities where poverty is eliminated, education enables opportunity, races live together justly, nature is preserved, and culture flourishes. Johnson's unusually poetic language here, with references to civilization, beauty, and leisure, creates emotional investment in this transformed future. The Bridge to Action addresses the young audience directly, positioning them as agents of change who must choose between comfortable complicity and moral participation in social transformation. Notice how the framework expands beyond confrontational contexts: Johnson uses it to inspire affirmative social engineering, not resist oppression. The Hope element is heavily emphasized while the Opposition's False Promise is downplayed, a choice that reflects Johnson's audience and context while also obscuring policy trade-offs and unforeseen consequences."
+  "analysis": "Johnson's Great Society speech deploys the Crossroads framework to mobilize support for comprehensive social reform. The Current Reality describes existing American problems, persistent poverty despite material abundance, racial injustice, inadequate education and healthcare, establishing emotional and moral urgency for transformation. The Opposition's False Promise emerges implicitly: Johnson rejects the materialist assumption that consumer capitalism and economic growth alone constitute progress, exposing a narrow vision of the good life. His Vision of Hope presents a detailed picture of reformed society: cities where poverty is eliminated, education enables opportunity, races live together justly, nature is preserved, and culture flourishes. Johnson's unusually poetic language here, with references to civilization, beauty, and leisure, creates emotional investment in this transformed future. The Bridge to Action addresses the young audience directly, positioning them as agents of change who must choose between comfortable complicity and moral participation in social transformation. Notice how the framework expands beyond confrontational contexts: Johnson uses it to inspire affirmative social engineering, not resist oppression. The Hope element is heavily emphasized while the Opposition's False Promise is downplayed, a choice that reflects Johnson's audience and context while also obscuring policy trade-offs and unforeseen consequences.",
+  "paragraphs": [
+    {
+      "label": "Current Reality",
+      "comment": "Sets baseline of past achievement and poses central question about using wealth for civilization advancement."
+    },
+    {
+      "label": "Opposition's False Promise",
+      "comment": "Rejects unbridled growth that buries old values and new visions; implicitly criticizes materialism."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Identifies existing injustices (poverty and racial inequality) that must be addressed as foundation for Great Society."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Begins detailed portrait of Great Society emphasizing enriched minds, meaningful leisure, and community over commerce."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Continues vision with connection to nature, creation, and values of quality over quantity."
+    },
+    {
+      "label": "Vision of Hope",
+      "comment": "Reframes Great Society as an ongoing challenge and aspiration rather than final destination."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Identifies cities as critical problem area where innovation and imagination must be directed."
+    },
+    {
+      "label": "Bridge to Action",
+      "comment": "Directly assigns the task of city transformation to the young audience's generation."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Describes environmental degradation threatening the nation's beauty and natural resources."
+    },
+    {
+      "label": "Opposition's False Promise",
+      "comment": "Rejects the failed identity of 'Ugly American' and implicitly its materialist values."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Emphasizes the irreversible consequences of environmental destruction and spiritual decline."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Identifies inadequate education and classroom conditions as a major problem area."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Provides stark statistics demonstrating the scale and scope of educational deficiency in America."
+    },
+    {
+      "label": "Current Reality",
+      "comment": "Details specific failures: overcrowding, outdated curricula, underpaid qualified teachers, unqualified paid teachers."
+    },
+    {
+      "label": "Opposition's False Promise",
+      "comment": "Explicitly rejects the false claim that the battle is unwinnable and that we are condemned to soulless wealth."
+    },
+    {
+      "label": "Bridge to Action",
+      "comment": "Direct appeal to young audience to transform the vision of earlier generations into reality through immediate action."
+    }
+  ]
 }

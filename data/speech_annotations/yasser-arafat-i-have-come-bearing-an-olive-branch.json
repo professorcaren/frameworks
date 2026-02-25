@@ -1,4 +1,162 @@
 {
   "introduction": "Yasser Arafat addressed the United Nations General Assembly on November 13, 1974, in a historic appearance that gave the Palestinian liberation movement its first major platform at the world body. His audience included representatives of nearly 200 nations, international media, and observers deeply divided on Middle Eastern politics. The PLO had just gained observer status at the UN, legitimizing Palestinian claims for statehood and recognition. Arafat spoke amid deep Palestinian dispossession following decades of conflict, displacement, and occupation. His audience was fractured: some sympathetic to Palestinian self-determination, others supportive of Israel, many conflicted or ambivalent. By bearing an olive branch symbolically, he worked to reframe Palestinians as legitimate political actors pursuing justice rather than mere combatants, to establish Palestinian historical grievances as the world's responsibility, and to position his movement as seeking reasonable peace.",
-  "analysis": "Arafat's speech follows the Detective Story framework through its historical investigation of Palestinian displacement. He opens by establishing the mystery: how did Palestinians become stateless and scattered across diaspora and occupation? The Investigation phase traces the roots systematically, examining Zionist colonization, imperial partition schemes, territorial appropriations, and refugee crises as components of a larger pattern. Arafat builds evidence through historical narrative, showing that Palestinian displacement resulted from deliberate policy and imperial intervention, not natural causes. The Opposition Takedown implicitly critiques counter-narratives that ignore Palestinian historical presence or justify displacement as inevitable development. His Resolution proposes Palestinian statehood and self-determination as the answer to this historical wrong, positioning peace through justice rather than mere coexistence. Arafat replaces legalistic investigation with historical narrative, making the detective work genealogical rather than forensic. He deviates from the framework by emphasizing historical trauma documentation over forward-looking solutions, with peace presented more as restitution than innovation. Notice how the Detective Story framework serves nationalist and liberation movements seeking international legitimacy, and how historical investigation becomes both evidence and argument in geopolitical disputes."
+  "analysis": "Arafat's speech follows the Detective Story framework through its historical investigation of Palestinian displacement. He opens by establishing the mystery: how did Palestinians become stateless and scattered across diaspora and occupation? The Investigation phase traces the roots systematically, examining Zionist colonization, imperial partition schemes, territorial appropriations, and refugee crises as components of a larger pattern. Arafat builds evidence through historical narrative, showing that Palestinian displacement resulted from deliberate policy and imperial intervention, not natural causes. The Opposition Takedown implicitly critiques counter-narratives that ignore Palestinian historical presence or justify displacement as inevitable development. His Resolution proposes Palestinian statehood and self-determination as the answer to this historical wrong, positioning peace through justice rather than mere coexistence. Arafat replaces legalistic investigation with historical narrative, making the detective work genealogical rather than forensic. He deviates from the framework by emphasizing historical trauma documentation over forward-looking solutions, with peace presented more as restitution than innovation. Notice how the Detective Story framework serves nationalist and liberation movements seeking international legitimacy, and how historical investigation becomes both evidence and argument in geopolitical disputes.",
+  "paragraphs": [
+    {
+      "label": null,
+      "comment": "Editorial introduction describing the historical context of Arafat's UN appearance."
+    },
+    {
+      "label": null,
+      "comment": "Editorial summary of the speech's main arguments and rhetorical strategies."
+    },
+    {
+      "label": null,
+      "comment": "Editorial note on the speech's reception and its political aftermath at the UN."
+    },
+    {
+      "label": null,
+      "comment": "Opening greeting and acknowledgment of the historic invitation to address the General Assembly."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Arafat frames the central puzzle: how can a world aspiring to peace, justice, and self-determination still harbor such deep oppression?"
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "He names the victims of ongoing oppression, including Palestinians, establishing that the problem remains unsolved and urgent."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "A pivot toward hope signals that despite darkness, meaningful change is possible, framing the speech as a moment of possibility."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Imperialism, colonialism, and Zionism are named as the dying but still dangerous forces behind the mystery of injustice."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Arafat situates the Palestinian cause within a global wave of liberation, presenting it as part of a great historical pattern demanding explanation."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "The mystery sharpens: Palestinians exist and have deep roots, yet they are denied presence and legitimacy by those who occupy their land."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "The United States is identified as complicit in arming the enemy, deepening the mystery of why world powers support injustice."
+    },
+    {
+      "label": "Opening Mystery",
+      "comment": "Arafat appeals directly to the American people by invoking their own freedom fighters, highlighting the contradiction between American ideals and American policy."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Arafat announces his method: tracing the Palestinian question to its historical roots to find the true cause of displacement."
+    },
+    {
+      "label": "Investigation",
+      "comment": "He examines how Zionist settler colonialism used the same rhetorical cover as other colonial projects, revealing a common imperial pattern."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The investigation deepens with an analysis of Zionist ideology, linking it structurally to imperialism, racism, and even anti-Semitism."
+    },
+    {
+      "label": "Investigation",
+      "comment": "A transition announces that specific historical evidence will now be presented to substantiate the indictment of the Zionist-imperialist alliance."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Evidence is introduced: pre-1881 Palestine was a diverse, thriving land, establishing what existed before Zionist settlement began."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The investigation traces how Zionist immigration was enabled by deception and the imperial gift of the Balfour Declaration."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Arafat documents how the League of Nations mandate imposed British imperialism on Palestinians, nullifying earlier promises of self-determination."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Population and land ownership statistics are marshaled as evidence of Palestinian majority and limited Jewish land acquisition by 1947."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The UN partition decision of 1947 is presented as a key finding: a moment of institutional complicity in Palestinian dispossession."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Even after partition, Zionist forces waged terror campaigns against Arab civilians to seize more land than the partition granted."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The investigation reaches its core finding: the Palestinian question is not religious or bilateral conflict, but the cause of a dispossessed people."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Israel's admission to the UN is framed as a further institutional failure, with Palestinian refugee status used to erase the political cause."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Arafat documents Israel's transformation into a regional military base serving imperial interests beyond its own borders."
+    },
+    {
+      "label": "Investigation",
+      "comment": "Israel's role as aggressor against Arab states is documented as evidence of expansionist intent underlying the displacement of Palestinians."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The 1967 war and territorial occupation are presented as further evidence of the ongoing pattern of Zionist aggression and expansion."
+    },
+    {
+      "label": "Investigation",
+      "comment": "The 1973 war is cited to show that military force has failed to resolve the conflict, and further Zionist preparations for war continue the pattern."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "Arafat pivots to reframe the core accusation against Palestinians: far from being terrorists, the PLO fights for universal human dignity including Jewish freedom."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "He distinguishes Judaism from Zionism, countering the charge that opposition to Zionism is anti-Semitism."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The terrorism label is directly challenged: those who apply it want to suppress the truth about Palestinian just cause."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "A definitional distinction between revolutionary and terrorist is introduced, beginning the dismantling of the opposition's framing."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The definition is completed: anyone fighting for liberation from occupiers and settlers cannot legitimately be called a terrorist."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The UN Charter itself is invoked to validate Palestinian struggle, turning international law against those who call Palestinians terrorists."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "The opposition's terrorism is exposed through specific acts: destroying olive trees, attacking Jerusalem, de-Arabizing the holy city."
+    },
+    {
+      "label": "Opposition Takedown",
+      "comment": "UN resolutions condemning Israeli aggression are cited as institutional validation that it is Israel, not Palestinians, who commits acts of terrorism."
+    },
+    {
+      "label": "Resolution",
+      "comment": "Arafat presents his vision: a single democratic state where Christian, Jew, and Muslim live equally, and Palestinians return from exile."
+    },
+    {
+      "label": "Resolution",
+      "comment": "The olive branch image crystallizes the resolution — peace is possible if the world does not abandon Palestinian hopes for justice."
+    },
+    {
+      "label": null,
+      "comment": "Editorial content about Margaret Thatcher, unrelated to Arafat's speech; appears to be a source file artifact."
+    }
+  ]
 }
