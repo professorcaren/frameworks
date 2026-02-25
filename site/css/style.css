@@ -391,6 +391,13 @@ blockquote {
     width: 140px;
     text-align: right;
   }
+
+  .speech-paragraph[data-comment]::after {
+    left: -160px;
+    top: 2.5rem;
+    width: 140px;
+    max-width: 140px;
+  }
 }
 
 .speech-paragraph--unlabeled {
@@ -399,13 +406,32 @@ blockquote {
 .speech-paragraph--unlabeled::before {
   content: none;
 }
-.para-comment {
-  display: block;
-  margin-top: 0.5rem;
+.speech-paragraph[data-comment]::before {
+  cursor: help;
+}
+.speech-paragraph[data-comment]::after {
+  content: attr(data-comment);
+  position: absolute;
+  left: 0;
+  top: 100%;
+  z-index: 10;
+  max-width: 320px;
+  padding: 0.5em 0.75em;
+  border-radius: var(--radius);
+  background: var(--text);
+  color: white;
   font-size: 0.8rem;
-  font-style: normal;
-  color: var(--text-light);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
   line-height: 1.4;
+  white-space: normal;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+.speech-paragraph[data-comment]:hover::after {
+  opacity: 1;
 }
 
 /* ===== Why Use Section ===== */

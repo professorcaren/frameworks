@@ -30,9 +30,9 @@ layout: base.njk
   <div class="annotated-speech">
     {% for para in speech.paragraphs %}
       <div class="speech-paragraph{% if not para.label %} speech-paragraph--unlabeled{% endif %}"
-           {% if para.label %}data-label="{{ para.label }}" style="border-color: {{ fw.color }}"{% endif %}>
+           {% if para.label %}data-label="{{ para.label }}" style="border-color: {{ fw.color }}"{% endif %}
+           {% if para.comment %}data-comment="{{ para.comment }}"{% endif %}>
         <p>{{ para.text }}</p>
-        {% if para.comment %}<small class="para-comment">{{ para.comment }}</small>{% endif %}
       </div>
     {% endfor %}
   </div>
