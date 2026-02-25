@@ -5,7 +5,7 @@ layout: base.njk
 
 <ul class="breadcrumb">
   <li><a href="{{ '/' | url }}">Home</a></li>
-  <li><a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}">{{ fw.name }}</a></li>
+  <li><a href="{{ ('/frameworks/' + frameworkSlug + '/') | url }}">{{ fw.name }}</a></li>
   <li>{{ title }}</li>
 </ul>
 
@@ -14,7 +14,7 @@ layout: base.njk
   <div class="speech-meta">
     <strong>{{ speaker }}</strong>{% if dateLocation %} &middot; {{ dateLocation }}{% endif %}
     <br>
-    <a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}" class="framework-badge" style="background: {{ fw.color }}">{{ fw.name }}</a>
+    <a href="{{ ('/frameworks/' + frameworkSlug + '/') | url }}" class="framework-badge" style="background: {{ fw.color }}">{{ fw.name }}</a>
   </div>
 </div>
 
@@ -39,6 +39,6 @@ layout: base.njk
 </div>
 
 <div class="speech-nav">
-  <a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}">&larr; Back to {{ fw.name }}</a>
+  <a href="{{ ('/frameworks/' + frameworkSlug + '/') | url }}">&larr; Back to {{ fw.name }}</a>
   <a href="{{ '/' | url }}">All Frameworks</a>
 </div>

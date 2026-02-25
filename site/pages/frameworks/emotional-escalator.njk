@@ -159,7 +159,7 @@ title: The Emotional Escalator
 
 <div class="speech-grid">
   {% for speech in fwSpeeches %}
-  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+  <a href="{{ ('/speeches/' + speech.slug + '/') | url }}" class="speech-card">
     <div class="speech-card__title">{{ speech.title }}</div>
     <div class="speech-card__speaker">{{ speech.speaker }}</div>
     <div class="speech-card__summary">{{ speech.summary }}</div>

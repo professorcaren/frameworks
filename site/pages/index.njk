@@ -12,7 +12,7 @@ wideLayout: true
 
 <div class="framework-grid">
   {% for fw in frameworks %}
-  <a href="{{ '/frameworks/' + fw.slug + '/' | url }}" class="framework-card" style="border-top-color: {{ fw.color }}">
+  <a href="{{ ('/frameworks/' + fw.slug + '/') | url }}" class="framework-card" style="border-top-color: {{ fw.color }}">
     <div class="framework-card__name" style="color: {{ fw.color }}">{{ fw.name }}</div>
     <div class="framework-card__hook">{{ fw.hook }}</div>
     <div class="framework-card__count">{{ fw.speechCount }} example speeches</div>
