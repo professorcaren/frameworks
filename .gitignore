@@ -1,0 +1,14 @@
+node_modules/
+site/_site/
+.DS_Store
+.playwright-mcp/
+
+# Large source books (copyrighted)
+data/*.md
+data/all_speeches.csv
+
+# Intermediate classification data
+data/batch_*_results.csv
+data/batches/
+data/speech_classifications.csv
+classify_speeches.py

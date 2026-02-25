@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>{{ title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="container container--wide">
+      <a href="{{ '/' | url }}" class="site-nav__title">{{ site.title }}</a>
+      <ul class="site-nav__links">
+        <li><a href="{{ '/persuasion-101/' | url }}">Persuasion 101</a></li>
+        <li><a href="{{ '/frameworks/detective-story/' | url }}">Detective Story</a></li>
+        <li><a href="{{ '/frameworks/crossroads/' | url }}">Crossroads</a></li>
+        <li><a href="{{ '/frameworks/rational-advocate/' | url }}">Rational Advocate</a></li>
+        <li><a href="{{ '/frameworks/call-to-conscience/' | url }}">Call to Conscience</a></li>
+        <li><a href="{{ '/frameworks/case-history/' | url }}">Case History</a></li>
+        <li><a href="{{ '/frameworks/emotional-escalator/' | url }}">Emotional Escalator</a></li>
+        <li><a href="{{ '/about/' | url }}">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container{% if wideLayout %} container--wide{% endif %}">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.subtitle }} &middot; UNC Chapel Hill</p>
+      <p>Course readings on <a href="{{ site.pubpubUrl }}">PubPub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,23 @@
+# []{#part0021.html_page90 .calibre4}[]{#part0021.html_page91 .calibre4}Catiline the Conspirator Turns and Fights {#part0021.html_c14 .toc}
+
+::: block
+*"Those who are most afraid are always in most danger; but courage is equivalent to a rampart."*
+:::
+
+Catiline is a name synonymous with conspiracy. The Roman politician and general plotted, schemed, and maneuvered to take power from consul Cicero, who---using facts gained from Catiline's mistress---defamed him before the Senate (the first of Cicero's famous orations against Catiline is on p. 257). Catiline took those of his followers who escaped execution and raced for Gaul, but was cornered at Pistoria, more than two hundred miles north of Rome. He had the choice of fighting and dying or surrendering and dying. In January of 62 [B.C]{.small}., he spoke to his band of sure losers in a way that informed his doomed conspiracy with a nobility in the face of defeat. He was killed in the battle that followed.
+
+The words are those of historian Sallust, who reconstructed the speech from what Catiline was reported to have said, much as a later historian did with Patrick Henry's oration. The opening paragraph, pure flattery, is quite untrue, but offers the sort of compliment an audience facing death likes to receive; the observation, near the close, that necessity "makes even cowards brave" is painfully true.
+
+\*\*\*
+
+**[I AM WELL]{.small}** aware, soldiers, that words cannot inspire courage and that a spiritless army cannot be rendered active, or a timid army valiant, by the speech of its commander. Whatever courage is in the heart of a man, whether from nature or from habit, so much will be shown by him in the field; and on him whom neither glory nor danger can move, exhortation is bestowed in vain, for the terror in his breast stops his ears.
+
+I have called you together, however, to give you a few instructions, and to explain to you, at the same time, my reasons for the course which I have adopted. You all know, soldiers, how severe a penalty the inactivity and cowardice of Lentulus has brought upon himself and us; and how, while waiting for reinforcements from the city, I was unable to []{#part0021.html_page92}march into Gaul. In what situation our affairs now are, you all understand as well as myself. Two armies of the enemy, one on the side of Rome, and the other on that of Gaul, oppose our progress; while the want of corn, and of other necessaries, prevents us from remaining, however strongly we may desire to remain, in our present position. Whithersoever we would go, we must open a passage with our swords.
+
+I conjure you, therefore, to maintain a brave and resolute spirit and to remember, when you advance to battle, that on your own right hands depend riches, honor, and glory, with the enjoyment of your liberty and of your country. If we conquer, all will be safe; we shall have provisions in abundance, and the colonies and corporate towns will open their gates to us. But if we lose the victory through want of courage, those same places will turn against us, for neither place nor friend will protect him whom his arms have not protected. Besides, soldiers, the same exigency does not press upon our adversaries as presses upon us; we fight for our country, for our liberty, for our life; they contend for what but little concerns them, the power of a small party. Attack them, therefore, with so much the greater confidence, and call to mind your achievements of old.
+
+We might, with the utmost ignominy, have passed the rest of our days in exile. Some of you, after losing your property, might have waited at Rome for assistance from others. But because such a life, to men of spirit, was disgusting and unendurable, you resolved upon your present course. If you wish to quit it, you must exert all your resolution, for none but conquerors have exchanged war for peace. To hope for safety in flight, when you have turned away from the enemy the arms by which the body is defended, is indeed madness. In battle, those who are most afraid are always in most danger; but courage is equivalent to a rampart.
+
+When I contemplate you, soldiers, and when I consider your past exploits, a strong hope of victory animates me. Your spirit, your age, your valor, give me confidence---to say nothing of necessity, which makes even cowards brave. To prevent the numbers of the enemy from surrounding us, our confined situation is sufficient. But should fortune be unjust to your valor, take care not to lose your lives unavenged; take care not to be taken and butchered like cattle, rather than fighting like men, to leave to your enemies a bloody and mournful victory.
+
+[]{#part0022.html}

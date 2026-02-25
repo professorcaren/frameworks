@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "detective-story",
+    "name": "The Detective Story",
+    "hook": "Frame problems as mysteries to solve",
+    "color": "#b5651d",
+    "colorLight": "#f5e6d3",
+    "description": "Leads audiences through a structured investigation that builds evidence for your proposed solution, naturally dismissing counter-arguments as false leads.",
+    "speechCount": 4
+  },
+  {
+    "slug": "crossroads",
+    "name": "The Crossroads",
+    "hook": "Contrast present problems with future visions",
+    "color": "#2d6a4f",
+    "colorLight": "#d4edda",
+    "description": "Contrasts vivid depictions of current problems with compelling visions of transformed futures, building emotional investment by helping audiences visualize potential outcomes.",
+    "speechCount": 8
+  },
+  {
+    "slug": "rational-advocate",
+    "name": "The Rational Advocate",
+    "hook": "Build cases through logic and evidence",
+    "color": "#457b9d",
+    "colorLight": "#d6eaf8",
+    "description": "Prioritizes logical reasoning and empirical evidence, systematically building cases through statistics, expert testimony, and cost-benefit analysis.",
+    "speechCount": 8
+  },
+  {
+    "slug": "call-to-conscience",
+    "name": "The Call to Conscience",
+    "hook": "Transform debates into moral imperatives",
+    "color": "#800020",
+    "colorLight": "#f2d4dc",
+    "description": "Appeals to moral principles and shared values, transforming policy debates into ethical imperatives by connecting reforms to fundamental questions of right and wrong.",
+    "speechCount": 8
+  },
+  {
+    "slug": "case-history",
+    "name": "The Case History",
+    "hook": "Make issues real through personal narratives",
+    "color": "#2a9d8f",
+    "colorLight": "#d1f0eb",
+    "description": "Uses detailed personal narratives and character studies to help audiences understand abstract issues through the experiences of specific, relatable individuals.",
+    "speechCount": 6
+  },
+  {
+    "slug": "emotional-escalator",
+    "name": "The Emotional Escalator",
+    "hook": "Build from attention to committed action",
+    "color": "#5b2c6f",
+    "colorLight": "#e8d5f5",
+    "description": "Guides audiences through intensifying psychological states, systematically building from initial attention to committed action through carefully calibrated emotional transitions.",
+    "speechCount": 8
+  }
+]

@@ -1,0 +1,45 @@
+---
+layout: base.njk
+---
+{% set fw = frameworks | findFramework(frameworkSlug) %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li><a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}">{{ fw.name }}</a></li>
+  <li>{{ title }}</li>
+</ul>
+
+<div class="page-header">
+  <h1>{{ title }}</h1>
+  <div class="speech-meta">
+    <strong>{{ speaker }}</strong>{% if dateLocation %} &middot; {{ dateLocation }}{% endif %}
+    <br>
+    <a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}" class="framework-badge" style="background: {{ fw.color }}">{{ fw.name }}</a>
+  </div>
+</div>
+
+{% if speech.introduction %}
+<div class="speech-intro">
+  <h2>Historical Context</h2>
+  {{ speech.introduction | markdown | safe }}
+</div>
+{% endif %}
+
+{% if speech.analysis %}
+<div class="framework-analysis" style="border-color: {{ fw.color }}; background: {{ fw.colorLight }}">
+  <h2>Framework Analysis: {{ fw.name }}</h2>
+  {{ speech.analysis | markdown | safe }}
+</div>
+{% endif %}
+
+<div class="speech-text">
+  <h2>Full Text</h2>
+  <div class="speech-body">
+    {{ speech.speechHtml | safe }}
+  </div>
+</div>
+
+<div class="speech-nav">
+  <a href="{{ '/frameworks/' + frameworkSlug + '/' | url }}">&larr; Back to {{ fw.name }}</a>
+  <a href="{{ '/' | url }}">All Frameworks</a>
+</div>

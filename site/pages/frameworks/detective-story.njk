@@ -1,0 +1,145 @@
+---
+layout: base.njk
+title: The Detective Story
+---
+
+{% set fw = frameworks | findFramework("detective-story") %}
+{% set fwSpeeches = speeches | speechesForFramework("detective-story") %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li>{{ fw.name }}</li>
+</ul>
+
+<div class="page-header">
+  <h1 style="color: {{ fw.color }}">{{ fw.name }} Approach</h1>
+  <p class="page-header__subtitle">{{ fw.description }}</p>
+</div>
+
+<h2>Structure</h2>
+
+<div class="structure-diagram">
+  <div class="structure-steps">
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">1</div>
+      <div class="structure-step__title">Opening Mystery</div>
+      <ul class="structure-step__points">
+        <li>Present a compelling social problem</li>
+        <li>Frame it as a puzzle to be solved</li>
+        <li>Create audience curiosity</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">2</div>
+      <div class="structure-step__title">Investigation</div>
+      <ul class="structure-step__points">
+        <li>Explore possible causes</li>
+        <li>Examine attempted solutions</li>
+        <li>Build evidence systematically</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">3</div>
+      <div class="structure-step__title">Opposition Takedown</div>
+      <ul class="structure-step__points">
+        <li>Expose flaws in contrary arguments</li>
+        <li>Use evidence to disprove false claims</li>
+        <li>Show why other solutions failed</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">4</div>
+      <div class="structure-step__title">Resolution</div>
+      <ul class="structure-step__points">
+        <li>Reveal your reform as the answer</li>
+        <li>Connect evidence to solution</li>
+        <li>Demonstrate why this solves the mystery</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why-use">
+  <h3>Why Use The Detective Story?</h3>
+  <ul>
+    <li><strong>Engagement:</strong> Audiences naturally want to solve mysteries and follow evidence trails</li>
+    <li><strong>Methodical Persuasion:</strong> Helps audiences reach conclusions themselves through logical progression</li>
+    <li><strong>Credibility Building:</strong> Demonstrates thorough research and investigation of the issue</li>
+    <li><strong>Opposition Handling:</strong> Naturally incorporates and dismisses counter-arguments as "false leads"</li>
+  </ul>
+</div>
+
+<h2>Annotated Example: Temperance Speaker's Detective Story</h2>
+
+<div class="annotated-speech">
+  <div class="speech-paragraph" data-step="1" data-label="Opening Mystery" style="border-color: {{ fw.color }}; --label-color: {{ fw.color }}">
+    <p>Ladies and gentlemen, a shadow looms over our prosperous cities. Each week, honest wages vanish without trace. Children with working fathers go hungry. Families in our wealthiest factory districts somehow sink deeper into poverty. What force drains the lifeblood from hardworking Americans?</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Investigation" style="border-color: {{ fw.color }}">
+    <p>The facts paint a puzzling picture. Factory wages have risen steadily. Our mills and mines pay more than ever. Yet I discovered families living in deeper squalor with each passing month. Something doesn't add up.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="False Lead #1" style="border-color: {{ fw.color }}">
+    <p>I examined merchant ledgers and market rates. Could rising prices explain our vanishing prosperity? But no — goods cost the same or less than five years ago. Food remains affordable, rent reasonable. The mystery deepens.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="False Lead #2" style="border-color: {{ fw.color }}">
+    <p>Perhaps education holds the key? I spoke with families across three districts. Found skilled craftsmen, educated clerks, and experienced laborers — all watching their families slide into misery. Yet another dead end.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="The Clue" style="border-color: {{ fw.color }}">
+    <p>Then a pattern emerged. I marked every struggling family's home on a city map. Around each cluster of poverty, one establishment always lurked nearby, its doors open day and night — the saloon.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Evidence Mounts" style="border-color: {{ fw.color }}">
+    <p>The evidence mounted. Fathers emptying pay envelopes at the bar while their children waited supperless at home. The saloon's own ledgers reveal their profits — so-called 'moderate' drinkers surrender nearly a third of their wages to the bottle.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Opposition Takedown" style="border-color: {{ fw.color }}">
+    <p>The liquor interests protest: 'Drinking brings men together!' Yet hundreds of shattered families tell a different story. They claim 'alcohol builds community' while their product destroys society's foundation — the family home.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Resolution" style="border-color: {{ fw.color }}">
+    <p>Ladies and gentlemen, the truth stands exposed. The villain is not wages, nor prices, nor education — it is alcohol itself. This bitter poison devours our prosperity, corrupts our workforce, and condemns innocent children to lives of want.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Call to Action" style="border-color: {{ fw.color }}">
+    <p>The solution shines clear as day: Prohibition. Not just a law, but salvation for our families trapped in poverty's grasp. With this shield, we can finally defeat the enemy that has hidden in plain sight for far too long. Join me in this righteous cause. The truth stands revealed — now justice demands action.</p>
+  </div>
+</div>
+
+<h2>Variants</h2>
+
+<div class="variants">
+  <details class="variant-item">
+    <summary>The Conspiracy Unraveling Approach</summary>
+    <div class="variant-item__content">
+      <p>Frames social problems as deliberate schemes rather than mysteries, tracing a web of connected interests and decisions that created current problems. The speaker acts as a whistleblower exposing a hidden system, methodically revealing how different actors and institutions work together to maintain the status quo, making the audience feel like insiders discovering forbidden knowledge.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Medical Diagnosis Approach</summary>
+    <div class="variant-item__content">
+      <p>Adapts the detective framework into a clinical investigation, treating social problems like symptoms of an underlying disease. The speaker takes on the role of a doctor, systematically ruling out surface-level explanations to identify root causes, presenting evidence like test results, and prescribing comprehensive treatment plans rather than quick fixes.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Archaeological Approach</summary>
+    <div class="variant-item__content">
+      <p>Works backwards from present problems to uncover their historical origins, treating current issues as artifacts of past decisions. Rather than looking for a single culprit, it excavates layers of policy choices, cultural changes, and institutional developments that built up over time, helping audiences understand how we got here and what fundamental changes are needed.</p>
+    </div>
+  </details>
+</div>
+
+<h2>Example Speeches</h2>
+
+<div class="speech-grid">
+  {% for speech in fwSpeeches %}
+  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+    <div class="speech-card__title">{{ speech.title }}</div>
+    <div class="speech-card__speaker">{{ speech.speaker }}</div>
+    <div class="speech-card__summary">{{ speech.summary }}</div>
+  </a>
+  {% endfor %}
+</div>

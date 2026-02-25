@@ -1,0 +1,141 @@
+---
+layout: base.njk
+title: The Call to Conscience
+---
+
+{% set fw = frameworks | findFramework("call-to-conscience") %}
+{% set fwSpeeches = speeches | speechesForFramework("call-to-conscience") %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li>{{ fw.name }}</li>
+</ul>
+
+<div class="page-header">
+  <h1 style="color: {{ fw.color }}">{{ fw.name }} Approach</h1>
+  <p class="page-header__subtitle">{{ fw.description }}</p>
+</div>
+
+<h2>Structure</h2>
+
+<div class="structure-diagram">
+  <div class="structure-steps">
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">1</div>
+      <div class="structure-step__title">Establish Shared Moral Ground</div>
+      <ul class="structure-step__points">
+        <li>Highlight universal moral principles</li>
+        <li>Connect values to the specific issue</li>
+        <li>Build common ethical foundation</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">2</div>
+      <div class="structure-step__title">Demonstrate Moral Outrage</div>
+      <ul class="structure-step__points">
+        <li>Vividly depict injustices or suffering</li>
+        <li>Evoke outrage and empathy</li>
+        <li>Highlight consequences of inaction</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">3</div>
+      <div class="structure-step__title">Contrast with Moral Ideal</div>
+      <ul class="structure-step__points">
+        <li>Present reform as morally superior</li>
+        <li>Align with established shared values</li>
+        <li>Show how reform promotes justice</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">4</div>
+      <div class="structure-step__title">Call to Moral Action</div>
+      <ul class="structure-step__points">
+        <li>Urge action based on conscience</li>
+        <li>Frame as moral imperative, not just practical choice</li>
+        <li>Emphasize responsibility to act</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why-use">
+  <h3>Why Use The Call to Conscience?</h3>
+  <ul>
+    <li><strong>Value Alignment:</strong> Connects reform to deeply held moral principles</li>
+    <li><strong>Universal Appeal:</strong> Transcends political divisions through shared ethical ground</li>
+    <li><strong>Moral Urgency:</strong> Creates sense of ethical imperative to act</li>
+    <li><strong>Legacy Impact:</strong> Frames choices in terms of historical judgment and moral character</li>
+  </ul>
+</div>
+
+<h2>Annotated Example: Temperance Speaker's Moral Appeal</h2>
+
+<div class="annotated-speech">
+  <div class="speech-paragraph" data-step="1" data-label="Shared Moral Ground" style="border-color: {{ fw.color }}">
+    <p>My fellow Christians, my fellow Americans, today I speak not of politics or profits, but of something far more sacred — our moral duty to God and our fellow man. We gather in the shadow of a great evil that stalks our nation's streets, destroying souls and shattering God's most precious gift — the family itself.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Moral Outrage" style="border-color: {{ fw.color }}">
+    <p>Every morning, mothers kneel in prayer, begging divine protection from alcohol's curse. Every night, children tremble as footsteps approach their door, wondering if their father returns home in rage or sorrow. In our very churches, collection plates grow lighter as drinking men sacrifice not just their wages, but their immortal souls upon alcohol's altar.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Deepening Outrage" style="border-color: {{ fw.color }}">
+    <p>What manner of Christian nation are we, to permit such suffering? What respect do we show for God's creation when we allow men made in His image to be transformed into beasts by strong drink? The saloonkeeper grows rich while widows weep, while orphans hunger, while families crumble into dust. Each coin that crosses his bar purchases another fragment of a broken commandment.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Exposing Opposition" style="border-color: {{ fw.color }}">
+    <p>The liquor interests speak of liberty — but what of the sacred liberty endowed by our Creator? They preach of choice — but what choice has the wife whose husband's wages vanish into the saloonkeeper's till? What choice has the child who learns to fear their own father's homecoming?</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Moral Ideal" style="border-color: {{ fw.color }}">
+    <p>Our Lord Jesus Christ turned water into wine for a wedding feast — yet these merchants of misery turn a father's wages into children's tears, a mother's hopes into bitter despair. They transform God's bounty into mankind's curse.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Historical Parallel" style="border-color: {{ fw.color }}">
+    <p>The great reformer William Wilberforce once stood before Parliament and declared slavery a moral stain upon England's conscience. Today, I stand before you to declare alcohol a moral stain upon America's soul. Like slavery, it trades in human misery. Like slavery, it destroys families. Like slavery, it must end.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Call to Moral Action" style="border-color: {{ fw.color }}">
+    <p>This is not merely a political campaign — it is a moral crusade. When you mark your ballot for prohibition, you vote not just for a law, but for righteousness. When you sign a temperance pledge, you sign a covenant with conscience. When you support our cause, you align yourself with God's own work of redemption.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Final Challenge" style="border-color: {{ fw.color }}">
+    <p>For if we fail to act, how shall we answer when our Maker asks, 'Where is thy brother?' Shall we, like Cain, reply that we are not our brother's keeper? Or shall we stand proud before God's throne, knowing we fought the good fight against this great evil? The hour of decision is upon us. Let conscience be our guide. Let righteousness be our goal. Let God's will be done.</p>
+  </div>
+</div>
+
+<h2>Variants</h2>
+
+<div class="variants">
+  <details class="variant-item">
+    <summary>The Sin and Redemption Approach</summary>
+    <div class="variant-item__content">
+      <p>Frames social problems through religious narratives of transgression and salvation, positioning current issues as manifestations of deeper moral failings that require both personal and collective redemption. It draws on themes of confession, repentance, and transformation, treating reform as a path to spiritual as well as social renewal.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Moral Stain Approach</summary>
+    <div class="variant-item__content">
+      <p>Emphasizes collective guilt and shared responsibility, treating social problems as corrupting influences that taint everyone who participates in or benefits from current systems. It creates urgency by suggesting that inaction makes the audience complicit in wrongdoing, while positioning reform as a way to cleanse society of moral corruption.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Sacred Values Approach</summary>
+    <div class="variant-item__content">
+      <p>Identifies core principles that the audience holds inviolable (like family, freedom, or fairness) and demonstrates how current conditions desecrate these values. Rather than focusing on specific harms, it treats reform as necessary to protect what is holy or sacred from profane influences.</p>
+    </div>
+  </details>
+</div>
+
+<h2>Example Speeches</h2>
+
+<div class="speech-grid">
+  {% for speech in fwSpeeches %}
+  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+    <div class="speech-card__title">{{ speech.title }}</div>
+    <div class="speech-card__speaker">{{ speech.speaker }}</div>
+    <div class="speech-card__summary">{{ speech.summary }}</div>
+  </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,23 @@
+## Aneurin Bevan London, 5 December 1956 {#chapter023.html_pen0002191 .EB04MainHead}
+
+#### 'We have to act up to different standards' {#chapter023.html_pen0002194 .EB10SmallHead}
+
+> *The Suez Crisis of 1956, initiated after President Nasser of Egypt nationalized the Suez Canal Company, divided British public opinion more bitterly than any other post-war dispute -- and also diverted British and American attention from Soviet intervention to suppress the Hungarian national uprising. An Anglo-French invasion of Egypt started on 5 November but was halted two days later after being condemned by the United Nations, as well as the United States.*
+>
+> *Aneurin Bevan, now the official Labour spokesman on foreign affairs, was the fiercest British critic of Suez. The first inquest on the disaster was held in the Commons on 5 December, when Bevan, according to his biographer Michael Foot, made what many considered the greatest speech of his life: 'Bevan welded the scattered indictment into a single, glittering synthesis; the wit merged with the `<?pagebreak number="276" ?>`{=html}[]{#chapter023.html_p276}wisdom and the wisdom with the wit, like two edges of the same sword.' This was the peroration.*
+
+The social furniture of modern society is so complicated and fragile that it cannot support the jackboot. We cannot run the processes of modern society by attempting to impose our will upon nations by armed force. If we have not learned that we have learned nothing. Whatever may have been the morality of the Government's action -- and about that there is no doubt -- there is no doubt about its imbecility. There is not the slightest shadow of doubt that we have attempted to use methods which were bound to destroy the objectives we had, and, of course, this is what we have discovered.
+
+It has been proved over and over again now in the modern world that men and women are often prepared to put up with material losses for things that they really think worthwhile. It has been shown in Budapest, and it could be shown in the Middle East. That is why I beg Hon. Members to turn their backs on this most ugly chapter and realize that if we are to live in the world and are to be regarded as a decent nation, decent citizens in the world, we have to act up to different standards than the one that we have been following in the last few weeks.
+
+I resent most bitterly this unconcern for the lives of innocent men and women. It may be that the dead in Port Said are 100, 200 or 300. If it is only one, we had no business to take it. Do Hon. Members begin to realize how this is going to revolt the world when it passes into the imagination of men and women everywhere, and in this country, that we, with eight million here in London, the biggest single civilian target in the world, with our crowded island exposed, as no nation in the world is exposed, to the barbarism of modern weapons, we ourselves set the example.
+
+We ourselves conscript our boys and put guns and aeroplanes in their hands and say, 'Bomb there.' Really, this is so appalling that human language can hardly describe it. And for what? The Government resorted to epic weapons for squalid and trivial ends, and that is why all through this unhappy period Ministers -- all of them -- have spoken and argued and debated well below their proper form -- because they `<?pagebreak number="277" ?>`{=html}[]{#chapter023.html_p277}have been synthetic villains. They are not really villains. They have only set off on a villainous course, and they cannot even use the language of villainy.
+
+It is no use Hon. Members consoling themselves that they have more support in the country than many of them feared they might have. Of course they have support in the country. They have support among many of the unthinking and unreflective who still react to traditional values, who still think that we can solve all these problems in the old ways. Of course they have. Not all the human race has grown to adult state yet. But do not let them take comfort in that thought. The Right Hon. Member for Woodford (Sir Winston Churchill) has warned them before. In the first volume of his *Second World War*, he writes about the situation before the war and he says this:
+
+> Thus an Administration more disastrous than any in our history saw all its errors and shortcomings acclaimed by the nation. There was however a bill to be paid, and it took the new House of Commons nearly ten years to pay it.
+
+> *The speech was acclaimed both inside and outside the House of Commons and made even Bevan's former critics believe that he should be the next Foreign Secretary.*
+
+•

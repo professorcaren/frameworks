@@ -1,0 +1,141 @@
+---
+layout: base.njk
+title: The Crossroads
+---
+
+{% set fw = frameworks | findFramework("crossroads") %}
+{% set fwSpeeches = speeches | speechesForFramework("crossroads") %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li>{{ fw.name }}</li>
+</ul>
+
+<div class="page-header">
+  <h1 style="color: {{ fw.color }}">{{ fw.name }} Approach</h1>
+  <p class="page-header__subtitle">{{ fw.description }}</p>
+</div>
+
+<h2>Structure</h2>
+
+<div class="structure-diagram">
+  <div class="structure-steps">
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">1</div>
+      <div class="structure-step__title">Current Reality</div>
+      <ul class="structure-step__points">
+        <li>Vivid description of problems</li>
+        <li>Human impact of issues</li>
+        <li>Urgency of situation</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">2</div>
+      <div class="structure-step__title">Opposition's False Promise</div>
+      <ul class="structure-step__points">
+        <li>Expose deceptive arguments</li>
+        <li>Show true consequences</li>
+        <li>Reveal hidden motives</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">3</div>
+      <div class="structure-step__title">Vision of Hope</div>
+      <ul class="structure-step__points">
+        <li>Detailed picture of reformed society</li>
+        <li>Benefits of change</li>
+        <li>Emotional resonance</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">4</div>
+      <div class="structure-step__title">Bridge to Action</div>
+      <ul class="structure-step__points">
+        <li>Path to achievement</li>
+        <li>Role of audience</li>
+        <li>Immediate next steps</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why-use">
+  <h3>Why Use The Crossroads?</h3>
+  <ul>
+    <li><strong>Emotional Investment:</strong> Helps audiences visualize and connect with potential outcomes</li>
+    <li><strong>Motivation:</strong> Creates urgency by contrasting current problems with possible solutions</li>
+    <li><strong>Hope Building:</strong> Offers positive vision while acknowledging current difficulties</li>
+    <li><strong>Action Orientation:</strong> Links abstract goals to concrete steps forward</li>
+  </ul>
+</div>
+
+<h2>Annotated Example: Temperance Speaker's Crossroads</h2>
+
+<div class="annotated-speech">
+  <div class="speech-paragraph" data-step="1" data-label="Current Reality" style="border-color: {{ fw.color }}">
+    <p>Tonight, I ask you to see two visions of tomorrow stretching before us like diverging paths. Down one road lies a city drowning in drink — not just any city, but our city, our home.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="1" data-label="Vivid Problems" style="border-color: {{ fw.color }}">
+    <p>Through its streets, the saloons multiply like weeds in an untended garden, their gas lamps casting sinister shadows across empty schoolyards. Inside each bar, men drain not just glasses but their families' futures, trading factory wages for momentary escape. The pawnbrokers grow fat on wedding rings and family Bibles. In cramped tenements, mothers darn torn clothes by candlelight, having pawned even the kerosene lamps to buy bread. The charity wards overflow with broken bodies and shattered minds, while the orphanages can scarcely hold all the children abandoned to alcohol's embrace.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="False Promise" style="border-color: {{ fw.color }}">
+    <p>The liquor barons spin their own fantasy, don't they? In their fairy tale, every saloon is a workingman's haven, every drink a moment of earned pleasure. They paint pictures of laborers sharing tales over beer, of factory hands enjoying well-earned rest. Such pretty lies! But their canvas hides darker truths — the trembling hands reaching for morning drinks, the machinery accidents from hungover mistakes, the Christmas mornings when children unwrap empty stockings while their father sleeps off another binge.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Vision of Hope" style="border-color: {{ fw.color }}">
+    <p>But there is another future, shimmering with promise like sunrise after storm. Walk with me down these different streets. Here, former saloons have transformed into penny savings banks, their vaults holding family nest eggs instead of whiskey barrels. Workers leave the mills with full pay envelopes, heading not to bars but to homes where warmth and plenty wait. Through open windows drift sounds of hymns and children's laughter. Each Sunday, parks fill with families sharing picnics, their baskets heavy with food bought with money once wasted on drink.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Expanded Vision" style="border-color: {{ fw.color }}">
+    <p>In this future, charity hospitals treat honest illness, not alcohol's victims. Police patrol peaceful streets. Schoolrooms overflow with eager students wearing new boots, their minds unclouded by hunger or fear. Church halls and temperance meetings pulse with genuine community — not the false brotherhood of the bottle, but real bonds between neighbors sharing prosperity and purpose.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Bridge to Action" style="border-color: {{ fw.color }}">
+    <p>This radiant tomorrow isn't some fevered dream. It awaits us just beyond the choice we make today. Every signature we gather weakens alcohol's grip. Every vote for prohibition strengthens the foundations of this better world. Every voice raised in support becomes another brick in the walls of this shining city we can build together.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Reclaiming Labels" style="border-color: {{ fw.color }}">
+    <p>The liquor interests call us zealots and fanatics. Yes! We are zealous for children with full bellies and warm beds. We are fanatics for wives who don't flinch at footsteps on the porch. We dream of men freed from demon rum's chains to become the husbands and fathers they long to be.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Final Call" style="border-color: {{ fw.color }}">
+    <p>But we are more than dreamers — we are builders of a new moral order. With every petition signed, every vote cast, every soul converted to our cause, we lay another stone in the road to this brighter future. Will you take up the tools of righteousness? Will you help us build this dream into reality? The choice lies before us. Two futures await. Which shall we choose?</p>
+  </div>
+</div>
+
+<h2>Variants</h2>
+
+<div class="variants">
+  <details class="variant-item">
+    <summary>The Nightmare Scenario Approach</summary>
+    <div class="variant-item__content">
+      <p>Inverts the emotional arc, starting with a seemingly stable present before revealing growing threats and culminating in a dire future that can only be prevented through immediate action. Rather than building toward hope, it creates urgency through fear of loss, showing how current problems could escalate into catastrophe without reform.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Paradise Lost Approach</summary>
+    <div class="variant-item__content">
+      <p>Begins by evoking a romanticized past or highlighting recent losses, then traces how specific forces corrupted or destroyed that better world. This creates both nostalgia and righteous anger, positioning reform as restoration rather than transformation. It's particularly effective when audiences feel something valuable has been taken from them.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Many Roads Approach</summary>
+    <div class="variant-item__content">
+      <p>Presents multiple detailed future scenarios — not just "good" and "bad" but several distinct possibilities shaped by different choices. This can be especially powerful when addressing complex issues where simple solutions aren't credible. It acknowledges trade-offs while still advocating for a preferred path.</p>
+    </div>
+  </details>
+</div>
+
+<h2>Example Speeches</h2>
+
+<div class="speech-grid">
+  {% for speech in fwSpeeches %}
+  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+    <div class="speech-card__title">{{ speech.title }}</div>
+    <div class="speech-card__speaker">{{ speech.speaker }}</div>
+    <div class="speech-card__summary">{{ speech.summary }}</div>
+  </a>
+  {% endfor %}
+</div>

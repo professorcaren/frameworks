@@ -1,0 +1,79 @@
+## David Grossman Tel Aviv, 4 November 2006 {#chapter045.html_pen0004642 .EB04MainHead}
+
+#### 'Turn to the Palestinian people' {#chapter045.html_pen0004646 .EB10SmallHead}
+
+> *The Israeli author David Grossman's books have been translated into more than thirty languages and won many prizes. He is an activist and critic of Israeli policy towards Palestinians*. The Yellow Wind*,* *his non-fiction study of the life of Palestinians in the Israeli-occupied West Bank and Gaza Strip, was applauded abroad but provoked controversy at home. Alongside Amos Oz, he has been one of the most prominent cultural advocates of a two-state solution to the Israeli-- Palestinian conflict. When he made this speech at a rally attended by 100,000 people he was also a bereaved father. It generated responses across the world.*
+
+The annual memorial ceremony for Yitzhak Rabin is the moment when we pause for a while to remember Rabin the man, the leader. And we also take a look at ourselves, at Israeli society, its leadership, the national mood, the state of the peace process, at ourselves as individuals in the face of national events.
+
+It is not easy to take a look at ourselves this year. There was a war, and Israel flexed its massive military muscle, but also exposed Israel's `<?pagebreak number="559" ?>`{=html}[]{#chapter045.html_p559}fragility. We discovered that our military might ultimately cannot be the only guarantee of our existence. Primarily, we have found that the crisis Israel is experiencing is far deeper than we had feared, in almost every way.
+
+I am speaking here tonight as a person whose love for the land is overwhelming and complex, and yet it is unequivocal, and as one whose continuous covenant with the land has turned his personal calamity into a covenant of blood.
+
+I am totally secular, and yet in my eyes the establishment and the very existence of the State of Israel is a miracle of sorts that happened to us as a nation -- a political, national, human miracle.
+
+I do not forget this for a single moment. Even when many things in the reality of our lives enrage and depress me, even when the miracle is broken down to routine and wretchedness, to corruption and cynicism, even when reality seems like nothing but a poor parody of this miracle, I always remember. And with these feelings, I address you tonight.
+
+'Behold land, for we hath squandered,' wrote the poet Saul Tchernikovsky in Tel Aviv in 1938. He lamented the burial of our young again and again in the soil of the Land of Israel. The death of young people is a horrible, ghastly waste.
+
+But no less dreadful is the sense that for many years the State of Israel has been squandering, not only the lives of its sons, but also its miracle; that grand and rare opportunity that history bestowed upon it, the opportunity to establish here a state that is efficient, democratic, which abides by Jewish and universal values; a state that would be a national home and haven, but not only a haven, also a place that would offer a new meaning to Jewish existence; a state that holds as an integral and essential part of its Jewish identity and its Jewish ethos, the observance of full equality and respect for its non-Jewish citizens.
+
+Look at what befell us. Look what befell the young, bold, passionate country we had here, and how, as if it had undergone a quickened ageing process, Israel lurched from infancy and youth to a perpetual state of gripe, weakness and sourness.
+
+How did this happen? When did we lose even the hope that we `<?pagebreak number="560" ?>`{=html}[]{#chapter045.html_p560}would eventually be able to live a different, better life? Moreover, how do we continue to watch from the side as though hypnotized by the insanity, rudeness, violence and racism that has overtaken our home?
+
+And I ask you: How could it be that a people with such powers of creativity, renewal and vivacity as ours, a people that knew how to rise from the ashes time and again, finds itself today, despite its great military might, at such a state of laxity and inanity, a state where it is the victim once more, but this time its own victim, of its anxieties, its short-sightedness.
+
+One of the most difficult outcomes of the recent war is the heightened realization that at this time there is no king in Israel, that our leadership is hollow. Our military and political leadership is hollow. I am not even talking about the obvious blunders in running the war, of the collapse of the home front, nor of the large-scale and small-time corruption.
+
+I am talking about the fact that the people leading Israel today are unable to connect Israelis to their identity. Certainly not with the healthy, vitalizing and productive areas of this identity, with those areas of identity and memory and fundamental values that would give us hope and strength, that would be the antidote to the waning of mutual trust, of the bonds to the land, that would give some meaning to the exhausting and despairing struggle for existence.
+
+The fundamental characteristics of the current Israeli leadership are primarily anxiety and intimidation, of the charade of power, the wink of the dirty deal, of selling out our most prized possessions. In this sense they are not true leaders, certainly they are not the leaders of a people in such a complicated position that has lost the way it so desperately needs. Sometimes it seems that the sound box of their self-importance, of their memories of history, of their vision, of what they really care for, exist only in the minuscule space between two headlines of a newspaper or between two investigations by the attorney general.
+
+Look at those who lead us. Not all of them, of course, but many among them. Behold their petrified, suspicious, sweaty conduct. The conduct of advocates and scoundrels. It is preposterous to expect to hear wisdom emerge from them, that some vision or even just an `<?pagebreak number="561" ?>`{=html}[]{#chapter045.html_p561}original, truly creative, bold and ingenuous idea would emanate from them.
+
+When was the last time a prime minister formulated or took a step that could open up a new horizon for Israelis, for a better future? When did he initiate a social or cultural or ideological move, instead of merely reacting feverishly to moves forced upon him by others?
+
+Mr Prime Minister, I am not saying these words out of feelings of rage or revenge. I have waited long enough to avoid responding on impulse. You will not be able to dismiss my words tonight by saying a grieving man cannot be judged. Certainly I am grieving, but I am more pained than angry. This country and what you and your friends are doing to it pains me.
+
+Trust me, your success is important to me, because the future of all of us depends on our ability to act. Yitzhak Rabin took the road of peace with the Palestinians, not because he possessed great affection for them or their leaders. Even then, as you recall, common belief was that we had no partner and we had nothing to discuss with them.
+
+Rabin decided to act because he discerned very wisely that Israeli society would not be able to sustain itself endlessly in a state of unresolved conflict. He realized long before many others that life in a climate of violence, occupation, terror, anxiety and hopelessness extracts a price Israel cannot afford. This is all relevant today, even more so. We will soon talk about the partner that we do or do not have, but before that, let us take a look at ourselves.
+
+We have been living in this struggle for more than 100 years. We, the citizens of this conflict, have been born into war and raised in it, and in a certain sense indoctrinated by it. Maybe this is why we sometimes think that this madness in which we live for over 100 years is the only real thing, the only life for us, and that we do not have the option or even the right to aspire for a different life.
+
+By our sword we shall live and by our sword we shall die and the sword shall devour for ever. Maybe this would explain the indifference with which we accept the utter failure of the peace process, a failure that has lasted for years and claims more and more victims ...
+
+`<?pagebreak number="562" ?>`{=html}[]{#chapter045.html_p562}And these are partly the cause of Israel's quick descent into the heartless, essentially brutal treatment of its poor and suffering. This indifference to the fate of the hungry, the elderly, the sick and the disabled, all those who are weak, this equanimity of the State of Israel in the face of human trafficking or the appalling employment conditions of our foreign workers, which border on slavery, to the deeply ingrained institutionalized racism against the Arab minority.
+
+When this takes place here so naturally, without shock, without protest, as though it were obvious that we would never be able to get the wheel back on track, when all of this takes place, I begin to fear that even if peace were to arrive tomorrow, and even if we ever regained some normalcy, we may have lost our chance for full recovery. The calamity that struck my family and myself with the falling of our son, Uri, does not grant me any additional rights in the public discourse, but I believe that the experience of facing death and loss brings with it a sobriety and lucidity, at least regarding the distinction between the important and the unimportant, between the attainable and the unattainable.
+
+Any reasonable person in Israel, and I will say in Palestine too, knows exactly the outline of a possible solution to the conflict between the two peoples. Any reasonable person here and over there knows deep in their heart the difference between dreams and the heart's desire, between what is possible and what is not possible by the conclusion of negotiations. Anyone who does not know, who refuses to acknowledge this, is already not a partner, be he Jew or Arab, is entrapped in his hermetic fanaticism, and is therefore not a partner.
+
+Let us take a look at those who are meant to be our partners. The Palestinians have elected Hamas to lead them, Hamas who refuses to negotiate with us, refuses even to recognize us. What can be done in such a position? Keep strangling them more and more, keep mowing down hundreds of Palestinians in Gaza, most of whom are innocent civilians like us? Kill them and get killed for all eternity?
+
+Turn to the Palestinians, Mr Olmert, address them over the heads of Hamas, appeal to their moderates, those who like you and I oppose Hamas and its ways, turn to the Palestinian people, speak to their deep grief and wounds, acknowledge their ongoing suffering.
+
+`<?pagebreak number="563" ?>`{=html}[]{#chapter045.html_p563}Nothing would be taken away from you or Israel's standing in future negotiations. Our hearts will only open up to one another slightly, and this has a tremendous power, the power of a *force majeure*. The power of simple human compassion, particularly in this state of deadlock and dread. Just once, look at them not through the sights of a gun, and not behind a closed roadblock. You will see there a people that is tortured no less than us. An oppressed, occupied people bereft of hope.
+
+Certainly, the Palestinians are also to blame for the impasse, certainly they played their role in the failure of the peace process. But take a look at them from a different perspective, not only at the radicals in their midst, not only at those who share interests with our own radicals. Take a look at the overwhelming majority of this miserable people, whose fate is entangled with our own, whether we like it or not.
+
+Go to the Palestinians, Mr Olmert, do not search all the time for reasons not to talk to them. You backed down on the unilateral convergence, and that's a good thing, but do not leave a vacuum. It will be occupied instantly with violence, destruction. Talk to them, make them an offer their moderates can accept. They argue among themselves far more than we are shown in the media. Make them an offer that will force them to choose between accepting it or preferring to remain hostage to fanatical Islam.
+
+Approach them with the bravest and most serious plan Israel can offer. With the offer that any reasonable Palestinian and Israeli knows is the boundary of their refusal and our concession. There is no time. Should you delay, in a short while we will look back with longing at the amateur Palestinian terror. We will hit our heads and yell at our failure to exercise all of our mental flexibility, all of the Israeli ingenuity to uproot our enemies from their self-entrapment. We have no choice and they have no choice. And a peace of no choice should be approached with the same determination and creativity as one approaches a war of no choice. And those who believe we do have a choice, or that time is on our side, do not comprehend the deeply dangerous processes already in motion.
+
+Maybe, Mr Prime Minister, you need to be reminded that if an `<?pagebreak number="564" ?>`{=html}[]{#chapter045.html_p564}Arab leader is sending a peace signal, be it the slightest and most hesitant, you must accept it, you must test immediately its sincerity and seriousness. You do not have the moral right not to respond.
+
+You owe it to those whom you would ask to sacrifice their lives should another war break out. Therefore, if President Assad says that Syria wants peace, even if you don't believe him, and we are all suspicious of him, you must offer to meet him that same day.
+
+Don't wait a single day. When you launched the last war you did not even wait one hour. You charged with full force, with the complete arsenal, with the full power of destruction. Why, when a glimmer of peace surfaces, must you reject it immediately, dissolve it? What have you got to lose? Are you suspicious of it? Go and offer him such terms that would expose his schemes. Offer him a peace process that would last over several years, and only at its conclusion, and provided he meets all the conditions and restrictions, will he get back the Golan. Commit him to a prolonged process, act so that his people also become aware of this possibility. Help the moderates, who must exist there as well. Try to shape reality. Not only serve as its collaborator. This is what you were elected to do.
+
+Certainly, not all depends on our actions. There are major powers active in our region and in the world. Some, like Iran, like radical Islam, seek our doom and despite that, so much depends on what we do, on what we become.
+
+Disagreements today between right and left are not that significant. The vast majority of Israel's citizens understand this already, and know what the outline for the resolution of the conflict would look like. Most of us understand, therefore, that the land would be divided, that a Palestinian State would be established.
+
+Why, then, do we keep exhausting ourselves with the internal bickering that has gone on for forty years? Why does our political leadership continue to reflect the position of the radicals and not that held by the majority of the public? It is better to reach national consensus before circumstances or, God forbid, another war force us to reach it. If we do it, we would save ourselves years of decline and error, years when we will cry time and again: 'Behold land, for we hath squandered.'
+
+`<?pagebreak number="565" ?>`{=html}[]{#chapter045.html_p565}From where I stand right now, I beseech, I call on all those who listen, the young who came back from the war, who know they are the ones to be called upon to pay the price of the next war, on citizens, Jew and Arab, people on the right and the left, the secular, the religious, stop for a moment, take a look into the abyss. Think of how close we are to losing all that we have created here. Ask yourselves if this is not the time to get a grip, to break free of this paralysis, to finally claim the lives we deserve to live.
+
+•

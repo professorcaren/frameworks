@@ -1,0 +1,15 @@
+---
+pagination:
+  data: speeches
+  size: 1
+  alias: speech
+permalink: "speeches/{{ speech.slug }}/"
+layout: speech.njk
+eleventyComputed:
+  title: "{{ speech.title }}"
+  speaker: "{{ speech.speaker }}"
+  dateLocation: "{{ speech.dateLocation }}"
+  frameworkSlug: "{{ speech.frameworkSlug }}"
+  framework: "{{ speech.framework }}"
+  summary: "{{ speech.summary }}"
+---

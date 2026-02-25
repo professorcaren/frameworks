@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: Home
+wideLayout: true
+---
+
+<div class="page-header text-center">
+  <h1>Persuasive Speech Frameworks</h1>
+  <p class="page-header__subtitle">Six proven approaches to structuring advocacy speeches, illustrated through 42 historical examples.</p>
+  <p style="color: var(--text-light); font-size: 0.95rem;">A companion resource for SOCI 274: Advocacy Strategies at UNC Chapel Hill.</p>
+</div>
+
+<div class="framework-grid">
+  {% for fw in frameworks %}
+  <a href="{{ '/frameworks/' + fw.slug + '/' | url }}" class="framework-card" style="border-top-color: {{ fw.color }}">
+    <div class="framework-card__name" style="color: {{ fw.color }}">{{ fw.name }}</div>
+    <div class="framework-card__hook">{{ fw.hook }}</div>
+    <div class="framework-card__count">{{ fw.speechCount }} example speeches</div>
+  </a>
+  {% endfor %}
+</div>
+
+<p class="not-sure-link">Not sure which framework fits your argument? Start with <a href="{{ '/persuasion-101/' | url }}">Persuasion 101</a>.</p>

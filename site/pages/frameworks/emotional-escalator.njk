@@ -1,0 +1,168 @@
+---
+layout: base.njk
+title: The Emotional Escalator
+---
+
+{% set fw = frameworks | findFramework("emotional-escalator") %}
+{% set fwSpeeches = speeches | speechesForFramework("emotional-escalator") %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li>{{ fw.name }}</li>
+</ul>
+
+<div class="page-header">
+  <h1 style="color: {{ fw.color }}">{{ fw.name }} Approach</h1>
+  <p class="page-header__subtitle">{{ fw.description }}</p>
+</div>
+
+<h2>Structure</h2>
+
+<div class="structure-diagram">
+  <div class="structure-steps">
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">1</div>
+      <div class="structure-step__title">Attention Catalyst</div>
+      <ul class="structure-step__points">
+        <li>Dramatic hook</li>
+        <li>Personal connection</li>
+        <li>Immediate relevance</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">2</div>
+      <div class="structure-step__title">Problem Recognition</div>
+      <ul class="structure-step__points">
+        <li>Current crisis</li>
+        <li>Personal impact</li>
+        <li>Hidden consequences</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">3</div>
+      <div class="structure-step__title">Alternative Analysis</div>
+      <ul class="structure-step__points">
+        <li>Common misconceptions</li>
+        <li>Failed solutions</li>
+        <li>Status quo limitations</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">4</div>
+      <div class="structure-step__title">Solution Vision</div>
+      <ul class="structure-step__points">
+        <li>Clear path forward</li>
+        <li>Proven effectiveness</li>
+        <li>Tangible benefits</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">5</div>
+      <div class="structure-step__title">Emotional Projection</div>
+      <ul class="structure-step__points">
+        <li>Future scenarios</li>
+        <li>Stakes and consequences</li>
+        <li>Personal investment</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">6</div>
+      <div class="structure-step__title">Action Imperative</div>
+      <ul class="structure-step__points">
+        <li>Concrete steps</li>
+        <li>Immediate opportunities</li>
+        <li>Collective momentum</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why-use">
+  <h3>Why Use The Emotional Escalator?</h3>
+  <ul>
+    <li><strong>Psychological Momentum:</strong> Each stage builds naturally on the previous one, making the final call to action feel inevitable rather than sudden</li>
+    <li><strong>Structural Flexibility:</strong> Each stage can be expanded or compressed based on audience needs and time constraints</li>
+    <li><strong>Comprehensive Engagement:</strong> Systematically addresses attention, problem awareness, solutions, future implications, and action steps</li>
+    <li><strong>Balanced Appeal:</strong> Naturally integrates both emotional and logical appeals throughout</li>
+    <li><strong>Clear Benchmarks:</strong> Speakers can monitor audience response at each stage and adjust accordingly</li>
+  </ul>
+</div>
+
+<h2>Annotated Example: The Choice Before Us</h2>
+
+<div class="annotated-speech">
+  <div class="speech-paragraph" data-step="1" data-label="Attention Catalyst" style="border-color: {{ fw.color }}">
+    <p>Ladies and gentlemen, look at the watch I hold before you. Every seven minutes, as this second hand sweeps its circle, another American family loses a father, a son, or a brother to the ravages of drink. In the time we gather here today, four more homes will be shattered, four more wives will begin their vigil, four more children will learn to fear the sound of footsteps on their porch.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Problem Recognition" style="border-color: {{ fw.color }}">
+    <p>You've seen it in our own community. The McGinty Saloon's books show that our mill workers spend more on whiskey each month than on bread for their children. Last winter, young Tommy Miller walked through December snows without a coat while his father's wages disappeared across McGinty's bar. And just last month, we buried Michael O'Brien, aged twenty-six, leaving behind three children under the age of five — not from any accident or illness that God sent, but from the slow poison sold freely on our streets.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Hidden Consequences" style="border-color: {{ fw.color }}">
+    <p>The liquor men tell us these are isolated incidents. But let us look at what the records show: our town jail housed more drunkenness cases last year than in the previous three years combined. Our hospital treats twice as many alcohol-related injuries as it did five years ago. The castellan at our poorhouse reports that seven in ten new admissions trace their poverty directly to drink.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Failed Solutions" style="border-color: {{ fw.color }}">
+    <p>Some say moderation is the answer. That we should trust in personal responsibility and better education. My friends, we've tried that path. For twenty years, the temperance societies have preached moderation. They've distributed pamphlets, hosted lectures, and organized pledges. And still our problems grow worse.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Half Measures" style="border-color: {{ fw.color }}">
+    <p>Others suggest stricter licensing laws or higher taxes on spirits. But look to neighboring Springfield, where such measures merely drove the trade underground and made the liquor more dangerous still. The liquor interests propose "gentleman's hours" and "respectable establishments." But can you make a rattlesnake respectable by putting it in a silk box? Can you make poison wholesome by serving it in a silver cup?</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Solution Vision" style="border-color: {{ fw.color }}">
+    <p>But there is another way. Look to the dry counties of Kansas, where sheriff's offices stand empty and poorhouses have rooms to spare. Study the reports from Maine, where factory owners tell of Monday mornings with full crews, of wages that now build homes instead of saloons. In these places, prohibition has not just closed the saloons — it has opened schoolhouses, filled church pews, and restored dignity to working families.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="5" data-label="Emotional Projection" style="border-color: {{ fw.color }}">
+    <p>Imagine our town one year from today, if we have the courage to act. Imagine the McGinty Saloon transformed into a merchant's shop, selling clothes instead of chaos, bread instead of broken promises. Picture Tommy Miller in a warm coat next winter, his father's wages building a future instead of destroying it. Think of the mothers who won't have to explain why father isn't coming home, the wives who won't have to hide their bruises, the children who won't learn to tremble at footsteps on the porch.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="5" data-label="Stakes" style="border-color: {{ fw.color }}">
+    <p>Or imagine instead our town if we fail to act. How many more O'Briens will we bury? How many more children will we consign to the poorhouse? How many more families will we sacrifice on the altar of the liquor trade?</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="6" data-label="Action Imperative" style="border-color: {{ fw.color }}">
+    <p>The hour for half-measures and hesitation has passed. Next Tuesday, the prohibition question comes before our town council. But they must hear from you before then. Tomorrow morning at nine o'clock, we will gather at the town hall to make our voices heard. Bring your neighbors. Bring your witness. Bring your determination to see this through.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="6" data-label="Collective Momentum" style="border-color: {{ fw.color }}">
+    <p>Those who profit from poison will be there with their smooth words and their deep pockets. But we shall meet them with something stronger — the combined will of a community that has seen enough sorrow, shed enough tears, and buried enough victims. The time for talk is over. The time for action has come. Join me tomorrow, and let us begin the work of redemption. For every seven minutes we delay, another family's future hangs in the balance. Who among you will stand with me to say: not one more minute, not one more family, not in our town, not on our watch? The choice is before us. The hour is at hand. The future awaits our answer. Will you give it?</p>
+  </div>
+</div>
+
+<h2>Variants</h2>
+
+<div class="variants">
+  <details class="variant-item">
+    <summary>The Crisis Response Approach</summary>
+    <div class="variant-item__content">
+      <p>Compresses the emotional progression into a more urgent framework, treating each stage as part of an emergency response protocol. It emphasizes immediate threats and time-sensitive opportunities, building quickly from awareness to action by framing choices as critical decision points in an unfolding crisis.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Aspiration Ladder Approach</summary>
+    <div class="variant-item__content">
+      <p>Reframes the progression around positive goals rather than problems, using each stage to build increasingly ambitious visions of personal and social transformation. It creates momentum through growing excitement about possibilities rather than escalating concern about problems.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Commitment Cascade Approach</summary>
+    <div class="variant-item__content">
+      <p>Focuses on sequential agreement, using each emotional stage to secure small commitments that build toward major action. Rather than relying on pure emotional progression, it interweaves practical steps with growing investment, making each new level of commitment feel like a natural extension of previous agreements.</p>
+    </div>
+  </details>
+</div>
+
+<h2>Example Speeches</h2>
+
+<div class="speech-grid">
+  {% for speech in fwSpeeches %}
+  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+    <div class="speech-card__title">{{ speech.title }}</div>
+    <div class="speech-card__speaker">{{ speech.speaker }}</div>
+    <div class="speech-card__summary">{{ speech.summary }}</div>
+  </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,39 @@
+# []{#part0084.html_page343 .calibre4}Martin Luther Addresses the Diet of Worms {#part0084.html_c74 .toc}
+
+::: block
+*"Here I stand; I cannot do otherwise."*
+:::
+
+Excommunicated by Pope Leo X but still vocal and determined, Martin Luther was not to be deterred from facing his critics at the Diet of Worms, an imperial deliberative body. He maintained that defiance afterward: "If I had heard that as many devils would set on me in Worms as there are tiles on the roofs, I should nonetheless have ridden there."
+
+Luther's 1517 posting of ninety-five theses that questioned church doctrine had angered the Catholic authorities. Unswayed by a condemnation from Rome and driven to burn a papal bull in 1520, the German founder of Protestantism was tried the following year by a secular tribunal at the diet and then condemned for heresy by Emperor Charles V.
+
+At his trial. Luther uses both simile ("as clear as noonday") and Scripture, quoting from both the Old and the New Testament in refusing to retract his writings that were deemed heretical. By addressing himself specifically to the charges brought against him, Luther reiterates his own positions against popery and provides the emperor with "a simple, clear, and direct answer"---that he cannot "speak against his conscience."
+
+Added to the first printed copies of the speech was the German statement "Hier steh' ich, ich kann nicht anders," a quotation that can be found today on the Worms monument to Luther. This remark, which has been translated as "I stand here and can say no more," is more forcefully rendered at the end of the translation given below.
+
+\*\*\*
+
+**[MOST SERENE EMPEROR]{.small}**, and you illustrious princes and gracious lords: I this day appear before you in all humility, according to your command, and I implore Your Majesty and your august highnesses, by the mercies of God, to listen with favor to the defense of a cause which I am well assured is just and right. I ask pardon, if by reason of my ignorance, I am wanting in the manners that befit a court; for I have not been brought up in kings' palaces, but in the seclusion of a cloister.
+
+[]{#part0084.html_page345}Two questions were yesterday put to me by His Imperial Majesty; the first, whether I was the author of the books whose titles were read; the second, whether I wished to revoke or defend the doctrine I have taught. I answered the first, and I adhere to that answer.
+
+As to the second, I have composed writings on very different subjects. In some I have discussed faith and good works, in a spirit at once so pure, clear, and Christian that even my adversaries themselves, far from finding anything to censure, confess that these writings are profitable, and deserve to be perused by devout persons. The pope's bull, violent as it is, acknowledges this. What, then, should I be doing if I were now to retract these writings? Wretched man! I alone, of all men living, should be abandoning truths approved by the unanimous voice of friends and enemies, and opposing doctrines that the whole world glories in confessing!
+
+I have composed, secondly, certain works against popery, wherein I have attacked such as by false doctrines, irregular lives, and scandalous examples afflict the Christian world, and ruin the bodies and souls of men. And is not this confirmed by the grief of all who fear God? Is it not manifest that the laws and human doctrines of the popes entangle, vex, and distress the consciences of the faithful. while the crying and endless extortions of Rome engulf the property and wealth of Christendom, and more particularly of this illustrious nation?
+
+If I were to revoke what I have written on that subject, what should I do... but strengthen this tyranny, and open a wider door to so many and flagrant impieties? Bearing down all resistance with fresh fury, we should behold these proud men swell, foam, and rage more than ever! And not merely would the yoke which now weighs down Christians be made more grinding by my retraction---it would thereby become, so to speak, lawful---for, by my retraction, it would receive confirmation from Your Most Serene Majesty, and all the states of the empire. Great God! I should thus be like to an infamous cloak, used to hide and cover over every kind of malice and tyranny.
+
+In the third and last place, I have written some books against private individuals, who had undertaken to defend the tyranny of Rome by destroying faith. I freely confess that I may have attacked such persons with more violence than was consistent with my profession as an ecclesiastic: I do not think of myself as a saint; but neither can I retract these books, because I should, by so doing, sanction the impieties of my opponents, and they would thence take occasion to crush God's people with still more cruelty.
+
+Yet, as I am a mere man, and not God, I will defend myself after the example of Jesus Christ, who said, "If I have spoken evil, bear witness against me" (John 18:23). How much more should I, who am but dust []{#part0084.html_page346}and ashes, and so prone to error, desire that every one should bring forward what he can against my doctrine.
+
+Therefore, Most Serene Emperor, and you illustrious princes, and all, whether high or low, who hear me, I implore you by the mercies of God to prove to me by the writings of the prophets and apostles that I am in error. As soon as I shall be convinced, I will instantly retract all my errors, and will myself be the first to seize my writings and commit them to the flames.
+
+What I have just said I think will clearly show that I have well considered and weighed the dangers to which I am exposing myself; but far from being dismayed by them, I rejoice exceedingly to see the Gospel this day, as of old, a cause of disturbance and disagreement. It is the character and destiny of God's word. "I came not to send peace unto the earth, but a sword," said Jesus Christ. God is wonderful and awful in his counsels. Let us have a care, lest in our endeavors to arrest discords, we be bound to fight against the holy word of God and bring down upon our heads a frightful deluge of inextricable dangers, present disaster, and everlasting desolations.... Let us have a care lest the reign of the young and noble prince, the emperor Charles, on whom, next to God, we build so many hopes, should not only commence, but continue and terminate its course under the most fatal auspices. I might cite examples drawn from the oracles of God. I might speak of pharaohs, of kings of Babylon, or of Israel, who were never more contributing to their own ruin that when, by measures in appearances most prudent, they thought to establish their authority! "God removeth the mountains and they know not" (Job 9:5).
+
+In speaking thus, I do not suppose that such noble princes have need of my poor judgment; but I wish to acquit myself of a duty that Germany has a right to expect from her children. And so commending myself to Your August Majesty, and your most serene highnesses, I beseech you in all humility, not to permit the hatred of my enemies to rain upon me an indignation I have not deserved.
+
+Since Your Most Serene Majesty and Your High Mightinesses require of me a simple, clear, and direct answer, I will give one, and it is this: I cannot submit my faith either to the pope or to the council, because it is as clear as noonday that they have fallen into error and even into glaring inconsistency with themselves. If, then, I am not convinced by proof from Holy Scripture, or by cogent reasons, if I am not satisfied by the very text I have cited, and if my judgment is not in this way brought into subjection to God's word, I neither can nor will retract anything; for it cannot be right for a Christian to speak against his conscience. Here I stand; I cannot do otherwise. God help me. Amen.
+
+[]{#part0085.html}

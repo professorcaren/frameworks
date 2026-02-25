@@ -1,0 +1,144 @@
+---
+layout: base.njk
+title: The Case History
+---
+
+{% set fw = frameworks | findFramework("case-history") %}
+{% set fwSpeeches = speeches | speechesForFramework("case-history") %}
+
+<ul class="breadcrumb">
+  <li><a href="{{ '/' | url }}">Home</a></li>
+  <li>{{ fw.name }}</li>
+</ul>
+
+<div class="page-header">
+  <h1 style="color: {{ fw.color }}">{{ fw.name }} Approach</h1>
+  <p class="page-header__subtitle">{{ fw.description }}</p>
+</div>
+
+<h2>Structure</h2>
+
+<div class="structure-diagram">
+  <div class="structure-steps">
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">1</div>
+      <div class="structure-step__title">Introduce the Subject</div>
+      <ul class="structure-step__points">
+        <li>Start with a real or plausible character</li>
+        <li>Provide relatable, compelling details</li>
+        <li>Establish audience connection</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">2</div>
+      <div class="structure-step__title">Describe the Conflict</div>
+      <ul class="structure-step__points">
+        <li>Highlight struggles due to the social issue</li>
+        <li>Use vivid imagery and emotional appeals</li>
+        <li>Draw the audience in</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">3</div>
+      <div class="structure-step__title">Broaden the Lens</div>
+      <ul class="structure-step__points">
+        <li>Transition to the bigger picture</li>
+        <li>Show story as emblematic of systemic problems</li>
+        <li>Frame opposition as ignoring these struggles</li>
+      </ul>
+    </div>
+    <div class="structure-step">
+      <div class="structure-step__number" style="background: {{ fw.color }}">4</div>
+      <div class="structure-step__title">Call to Action Through Empathy</div>
+      <ul class="structure-step__points">
+        <li>Ask audience to act to prevent similar suffering</li>
+        <li>Frame action as moral imperative</li>
+        <li>Connect back to the subject's story</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="why-use">
+  <h3>Why Use The Case History?</h3>
+  <ul>
+    <li><strong>Relatability:</strong> Audiences can empathize with someone whose situation they might recognize in their own community</li>
+    <li><strong>Emotional Impact:</strong> A powerful story can evoke emotions and motivate action without putting the speaker in the spotlight</li>
+    <li><strong>Credibility:</strong> Referencing another person's experience adds weight to the argument, especially when tied to broader evidence</li>
+  </ul>
+</div>
+
+<h2>Annotated Example: Temperance Speaker's Third-Person Storytelling</h2>
+
+<div class="annotated-speech">
+  <div class="speech-paragraph" data-step="1" data-label="Introduce Subject" style="border-color: {{ fw.color }}">
+    <p>I want to tell you about Sarah Murphy, who lives three blocks from this very hall, in a third-floor tenement on Cedar Street. You might have seen her — a small woman with work-worn hands and eyes that once sparkled with hope. Every morning before dawn, she lights her coal stove with trembling fingers and prepares what meager breakfast she can for her two remaining children. Then she sits at her sewing machine, stitching shirt collars until her eyes blur, earning pennies to feed the little ones who depend on her.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="1" data-label="Before the Fall" style="border-color: {{ fw.color }}">
+    <p>Her husband William wasn't always as you might see him now, sleeping in doorways or stumbling from Murphy's Saloon. Ten years ago, he was the finest machinist at the Bradley Works, his steady hands trusted with the most delicate gears. Their wedding photograph still sits on Sarah's bureau — William in his Sunday best, standing proud and straight, his eyes clear and full of promise.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="The Conflict" style="border-color: {{ fw.color }}">
+    <p>The change came slowly, like rust creeping across iron. First just a drink with the boys after work, then two, then three. The saloonkeeper was happy to extend credit against next week's wages. Sarah watched the changes spread through their lives like cracks in a foundation — first the Sunday clothes went to the pawnbroker, then little Tommy's schoolbooks, finally even her mother's silver thimble.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="The Crisis" style="border-color: {{ fw.color }}">
+    <p>But it was last winter that broke Sarah's heart beyond mending. Little Emma, not yet six, caught the influenza that was sweeping through the tenements. The doctor said she needed medicine and beef broth to build her strength. That very day, William's pay envelope held enough for both. But the saloonkeeper's ledger shows he spent five hours at the bar that evening, while Emma shivered in her bed. When Sarah finally scraped together enough for the medicine, borrowing pennies from neighbors and pawning her wedding ring, the doctor only shook his head.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="2" data-label="Aftermath" style="border-color: {{ fw.color }}">
+    <p>Now Emma lies in Potter's Field, beneath bitter February snow. Her small gravestone bears only her initials — the full inscription would have cost another week's wages. Sarah tends the grave on Sundays, planting the wild violets that Emma loved to gather. Sometimes other mothers join her there, tending their own small plots in that field of broken dreams.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Broaden the Lens" style="border-color: {{ fw.color }}">
+    <p>The liquor interests would have you believe their trade brings only fellowship and joy. They paint pretty pictures of friendly gatherings and moderate pleasures. But they don't speak of the children's graves on the hillside. They don't mention the pawnbroker's shelves groaning with family Bibles and wedding rings. They stay silent about the endless nights when mothers like Sarah lie awake, dreading the sound of stumbling footsteps on the stairs.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="3" data-label="Systemic Pattern" style="border-color: {{ fw.color }}">
+    <p>Sarah Murphy's story echoes through every street of our city, in a thousand variations of the same tragedy. Every morning, mothers just like her light their stoves with trembling hands, wondering if today's wages will buy bread or whiskey. Every night, children just like Emma slip away while saloonkeepers count their profits.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="Call to Action" style="border-color: {{ fw.color }}">
+    <p>When you mark your ballot for prohibition, remember Sarah's work-worn hands. When you sign a temperance pledge, think of Emma's tiny grave in the snow. When you speak against the liquor trade, lend your voice to every mother who has wept in silence.</p>
+  </div>
+
+  <div class="speech-paragraph" data-step="4" data-label="A Different Ending" style="border-color: {{ fw.color }}">
+    <p>For Sarah's story need not be repeated. Together, we can write a different ending — one where fathers return home clear-eyed and steady-handed, where mothers' fingers need not tremble at dawn, where children's laughter rings through tenement halls instead of tears. This is the future we can build, one family, one vote, one voice at a time.</p>
+  </div>
+</div>
+
+<h2>Variants</h2>
+
+<div class="variants">
+  <details class="variant-item">
+    <summary>The Autobiography Approach</summary>
+    <div class="variant-item__content">
+      <p>Reframes the narrative around the speaker's own experiences, using personal testimony to establish both emotional connection and authority. It builds credibility through lived experience rather than external evidence, positioning the speaker as both witness and advocate while demonstrating direct knowledge of the problem's impact.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Multiple Perspectives Approach</summary>
+    <div class="variant-item__content">
+      <p>Weaves together stories from different viewpoints affected by the same issue — perhaps a worker, a business owner, a family member, and a community leader — showing how a single problem ripples through various layers of society. This creates a more complex narrative that acknowledges different stakeholders while still building toward a common solution.</p>
+    </div>
+  </details>
+  <details class="variant-item">
+    <summary>The Day-in-the-Life Approach</summary>
+    <div class="variant-item__content">
+      <p>Zooms in on a single representative day, using careful detail and moment-by-moment description to help audiences viscerally understand how social problems affect daily existence. Rather than covering a character's whole story, it makes the issue immediate and tangible by showing its constant presence in ordinary moments.</p>
+    </div>
+  </details>
+</div>
+
+<h2>Example Speeches</h2>
+
+<div class="speech-grid">
+  {% for speech in fwSpeeches %}
+  <a href="{{ '/speeches/' + speech.slug + '/' | url }}" class="speech-card">
+    <div class="speech-card__title">{{ speech.title }}</div>
+    <div class="speech-card__speaker">{{ speech.speaker }}</div>
+    <div class="speech-card__summary">{{ speech.summary }}</div>
+  </a>
+  {% endfor %}
+</div>

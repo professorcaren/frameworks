@@ -1,0 +1,16 @@
+{
+  "name": "persuasive-speech-frameworks",
+  "version": "1.0.0",
+  "description": "Educational site for SOCI 274 Advocacy Strategies - Persuasive Speech Frameworks",
+  "scripts": {
+    "prepare": "node scripts/prepare-data.js",
+    "build": "npm run prepare && npx @11ty/eleventy",
+    "serve": "npm run prepare && npx @11ty/eleventy --serve",
+    "start": "npm run serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "csv-parse": "^5.5.3",
+    "markdown-it": "^14.0.0"
+  }
+}

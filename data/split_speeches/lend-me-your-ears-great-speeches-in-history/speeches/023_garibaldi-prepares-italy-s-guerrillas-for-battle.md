@@ -1,0 +1,23 @@
+# Garibaldi Prepares Italy's Guerrillas for Battle {#part0030.html_c23 .toc}
+
+::: block
+*"The slave shall show at last to his free brothers a sharpened sword forged from the links of his fetters."*
+:::
+
+Giuseppe Garibaldi was among the first to understand how irregular troops---guerrillas, as they later came to be called---could wear down and defeat regular armies. He learned his profession as patriot and soldier under revolutionary leader Mazzini, and was condemned to death after the unsuccessful insurrection of 1832. Garibaldi escaped to South America and sharpened his command skills leading guerrillas in Brazil and Argentina; using that experience, he returned to Italy in 1859 to []{#part0030.html_page114}rout the Austrians for the Piedmont government. At the head of his thousand Redshirts, he seized Sicily and---after serving as dictator of half of what is now Italy for a couple of months---turned his nearly united nation over to King Victor Emmanuel II. Garibaldi is remembered as the unifier of the Italian nation; he might be more familiar to Americans had he taken up Abraham Lincoln's offer of a command in our Civil War.
+
+This speech loses flavor in the translation, not only between languages, but from spoken exhortation to written word. But the unifier's call beyond his troops to Italian women---"Cast away all the cowards from your embraces; they will give you only cowards for children"---has a ring that leaps off the page.
+
+\*\*\*
+
+**[WE MUST NOW]{.small}** consider the period which is just drawing to a close as almost the last stage of our national resurrection, and prepare ourselves to finish worthily the marvelous design of the elect of twenty generations, the completion of which Providence has reserved for this fortunate age.
+
+Yes, young men, Italy owes to you an undertaking which has merited the applause of the universe. You have conquered and you will conquer still, because you are prepared for the tactics that decide the fate of battles. You are not unworthy of the men who entered the ranks of a Macedonian phalanx, and who contended not in vain with the proud conquerors of Asia. To this wonderful page in our country's history another more glorious still will be added, and the slave shall show at last to his free brothers a sharpened sword forged from the links of his fetters.
+
+To arms, then, all of you! all of you! And the oppressors and the mighty shall disappear like dust. You, too, women, cast away all the cowards from your embraces; they will give you only cowards for children, and you who are the daughters of the land of beauty must bear children who are noble and brave. Let timid doctrinaires depart from among us to carry their servility and their miserable fears elsewhere. This people is its own master. It wishes to be the brother of other peoples, but to look on the insolent with a proud glance, not to grovel before them imploring its own freedom. It will no longer follow in the trail of men whose hearts are foul. No! No! No!
+
+Providence has presented Italy with Victor Emmanuel. Every Italian should rally round him. By the side of Victor Emmanuel every quarrel should be forgotten, all rancor depart. Once more I repeat my battle cry: "To arms, all---all of you!" If March 1861 does not find one million of Italians []{#part0030.html_page115}in arms, then alas for liberty, alas for the life of Italy. Ah, no, far be from me a thought which I loathe like poison. March of 1861, or if need be February, will find us all at our post---Italians of Calatafimi, Palermo, Ancona, the Volturno, Castelfidardo, and Isernia, and with us every man of this land who is not a coward or a slave. Let all of us rally round the glorious hero of Palestro and give the last blow to the crumbling edifice of tyranny. Receive, then, my gallant young volunteers, at the honored conclusion of ten battles, one word of farewell from me.
+
+I utter this word with deepest affection and from the very bottom of my heart. Today I am obliged to retire, but for a few days only. The hour of battle will find me with you again, by the side of the champions of Italian liberty. Let those only return to their homes who are called by the imperative duties which they owe to their families, and those who by their glorious wounds have deserved the credit of their country. These, indeed, will serve Italy in their homes by their counsel, by the very aspect of the scars which adorn their youthful brows. Apart from these, let all others remain to guard our glorious banners. We shall meet again before long to march together to the redemption of our brothers who are still slaves of the stranger. We shall meet again before long to march to new triumphs.
+
+[]{#part0031.html}

@@ -1,0 +1,15 @@
+## Winston Churchill London, 13 May 1940 {#chapter017.html_pen0001414 .EB04MainHead}
+
+#### 'I have nothing to offer but blood, toil, tears and sweat' {#chapter017.html_pen0001418 .EB10SmallHead}
+
+> *On becoming prime minister, Churchill mobilized the language and made it fight. The first occasion occurred only three days after he had formed his coalition Cabinet. It was Whit Monday and Churchill made a short speech to the House of Commons. Yet on entering the chamber it was Chamberlain who got more cheers than Churchill, whose support was mostly on the Labour benches*.
+>
+> *The speech was unforgettable, imposing Churchill's character and resolve on the Commons whether they liked it or not. The effect was electrifying, says Robert Rhodes James, one of his biographers. As he walked out of the chamber, he said to one of his aides: 'That got the* SODS*, didn't it!'*
+>
+> *Churchill's war speeches, with their bulldog spirit, their refusal to acknowledge the prospect of defeat, rallied the British at the most critical period of the war when Hitler was advancing to Dunkirk and threatening to invade England.*
+
+It must be remembered that we are in the preliminary stage of one of the greatest battles in history, that we are in action at many points in Norway and in Holland, that we have to be prepared in the Medi`<?pagebreak number="189" ?>`{=html}[]{#chapter017.html_p189}terranean, that the air battle is continuous and that many preparations have to be made here at home. In this crisis I hope I may be pardoned if I do not address the House at any length today. I hope that any of my friends and colleagues, or former colleagues, who are affected by the political reconstruction, will make all allowance for any lack of ceremony with which it has been necessary to act. I would say to the House, as I said to those who have joined the Government: 'I have nothing to offer but blood, toil, tears and sweat.'
+
+We have before us an ordeal of the most grievous kind. We have before us many, many long months of struggle and of suffering. You ask, what is our policy? I will say: It is to wage war, by sea, land and air, with all our might and with all the strength that God can give us: to wage war against a monstrous tyranny, never surpassed in the dark, lamentable catalogue of human crime. That is our policy. You ask, What is our aim? I can answer in one word: Victory -- victory at all costs, victory in spite of all terror, victory, however long and hard the road may be; for without victory, there is no survival. Let that be realized; no survival for the British Empire; no survival for all that the British Empire has stood for, no survival for the urge and impulse of the ages, that mankind will move forward towards its goal. But I take up my task with buoyancy and hope. I feel sure that our cause will not be suffered to fail among men. At this time I feel entitled to claim the aid of all, and I say, 'Come, then, let us go forward together with our united strength.'
+
+[•]{.center}
