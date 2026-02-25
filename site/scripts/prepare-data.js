@@ -58,8 +58,7 @@ function cleanText(text) {
   // Remove HTML tags that leaked from markdown source
   cleaned = cleaned.replace(/<\/?p>/g, "");
   cleaned = cleaned.replace(/<br\s*\/?>/g, "\n");
-  cleaned = cleaned.replace(/<\/?em>/g, "*");
-  cleaned = cleaned.replace(/<\/?strong>/g, "**");
+  // Keep <em> and <strong> as-is for rendering
   cleaned = cleaned.replace(/<\/?blockquote>/g, "");
   cleaned = cleaned.replace(/<\/?div[^>]*>/g, "");
   cleaned = cleaned.replace(/<\/?span[^>]*>/g, "");
@@ -93,9 +92,9 @@ function cleanText(text) {
   // Remove inline [] markers (empty bracket artifacts)
   cleaned = cleaned.replace(/\[\]/g, "");
 
-  // Strip markdown emphasis markers (* and **)
-  cleaned = cleaned.replace(/\*\*([^*]+)\*\*/g, "$1");
-  cleaned = cleaned.replace(/\*([^*]+)\*/g, "$1");
+  // Convert markdown emphasis to HTML
+  cleaned = cleaned.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  cleaned = cleaned.replace(/\*([^*]+)\*/g, "<em>$1</em>");
 
   // Clean up multiple blank lines
   cleaned = cleaned.replace(/\n{3,}/g, "\n\n");

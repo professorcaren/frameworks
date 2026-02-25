@@ -32,7 +32,7 @@ layout: base.njk
       <div class="speech-paragraph{% if not para.label %} speech-paragraph--unlabeled{% endif %}"
            {% if para.label %}data-label="{{ para.label }}" style="border-color: {{ fw.color }}"{% endif %}
            {% if para.comment %}data-comment="{{ para.comment }}"{% endif %}>
-        <p>{{ para.text }}</p>
+        <p>{{ para.text | safe }}</p>
       </div>
     {% endfor %}
   </div>

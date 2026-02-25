@@ -401,6 +401,13 @@ blockquote {
   }
 }
 
+.speech-text .speech-paragraph p {
+  font-style: normal;
+}
+.speech-text .speech-paragraph p em {
+  font-style: italic;
+}
+
 .speech-paragraph--unlabeled {
   border-left-color: var(--border-light);
 }
